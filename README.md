@@ -7,4 +7,4 @@
 * Note: As part of assignment, I am printing the required line. The String can be stored in a variable and used for different pusposes.
 
 * Sample Output from my Terminal: ..\read-logs-and-print-line>python read-logs-and-print-line.py
-*                                 #Kudos! You have solved the question.
+*    #Kudos! You have solved the question.
