@@ -1,0 +1,317 @@
+System.ComponentModel.Win32Exception (0x80004005): 並非所有參考到的特殊權限或群組都指定給呼叫者。
+   於 System.Diagnostics.Process.SetPrivilege(String privilegeName, Int32 attrib)
+   於 System.Diagnostics.Process.EnterDebugMode()
+   於 BlueStacks.LogCollector.CollectLogs.EnableDebugPrivilege()
+Install Dir:   C:\Program Files\BlueStacks\  ::::::: 2020/2/23 下午 01:45:45
+User Data Dir: C:\ProgramData\BlueStacks\Engine\  ::::::: 2020/2/23 下午 01:45:45
+Per User Dir:  C:\ProgramData\BlueStacks\Engine\UserData  ::::::: 2020/2/23 下午 01:45:45
+Starting CollectGuestArtifacts  :::::::  2020/2/23 下午 01:45:45
+Plus Host for VM Android already running
+Starting CollectHostArtifacts  :::::::  2020/2/23 下午 01:45:45
+Fetching Guest Information  :::::::  2020/2/23 下午 01:45:45
+Copying Product Logs  :::::::  2020/2/23 下午 01:45:45
+Cannot dump service info: :::::::  2020/2/23 下午 01:45:45
+Running Command  :::::::  2020/2/23 下午 01:45:45
+    prog: C:\Program Files\BlueStacks\HD-Adb.exe
+    args: "connect" "127.0.0.1:5556"
+    out:  
+FE title = BlueStacks Android Plugin, FE handle = 0
+file name is =BlueStacksUI.log
+C:\ProgramData\BlueStacks\Logs\BlueStacksUI.log 2020/2/23 下午 01:45:45
+file name is =BlueStacksUI.log.1
+C:\ProgramData\BlueStacks\Logs\BlueStacksUI.log.1 2020/2/23 下午 01:45:45
+file name is =BlueStacksUI_4.150.11.1001.log
+C:\ProgramData\BlueStacks\Logs\BlueStacksUI_4.150.11.1001.log 2020/2/23 下午 01:45:45
+file name is =BlueStacksUsers.log
+C:\ProgramData\BlueStacks\Logs\BlueStacksUsers.log 2020/2/23 下午 01:45:46
+file name is =BlueStacksUsers.log.1
+C:\ProgramData\BlueStacks\Logs\BlueStacksUsers.log.1 2020/2/23 下午 01:45:46
+file name is =BlueStacksUsers.log.2
+C:\ProgramData\BlueStacks\Logs\BlueStacksUsers.log.2 2020/2/23 下午 01:45:46
+file name is =BlueStacksUsers.log.3
+C:\ProgramData\BlueStacks\Logs\BlueStacksUsers.log.3 2020/2/23 下午 01:45:46
+file name is =BlueStacksUsers_4.150.11.1001.log
+C:\ProgramData\BlueStacks\Logs\BlueStacksUsers_4.150.11.1001.log 2020/2/23 下午 01:45:46
+file name is =Installer_4.150.11.1001_4.150.11.1001.log
+C:\ProgramData\BlueStacks\Logs\Installer_4.150.11.1001_4.150.11.1001.log 2020/2/23 下午 01:45:46
+file name is =Installer_4.170.0.1042.log
+C:\ProgramData\BlueStacks\Logs\Installer_4.170.0.1042.log 2020/2/23 下午 01:45:46
+file name is =Player.log
+C:\ProgramData\BlueStacks\Logs\Player.log 2020/2/23 下午 01:45:46
+file name is =Player.log.1
+C:\ProgramData\BlueStacks\Logs\Player.log.1 2020/2/23 下午 01:45:46
+file name is =Player.log.2
+C:\ProgramData\BlueStacks\Logs\Player.log.2 2020/2/23 下午 01:45:46
+file name is =Player.log.3
+C:\ProgramData\BlueStacks\Logs\Player.log.3 2020/2/23 下午 01:45:46
+file name is =Player.log.4
+C:\ProgramData\BlueStacks\Logs\Player.log.4 2020/2/23 下午 01:45:46
+file name is =Player.log.5
+C:\ProgramData\BlueStacks\Logs\Player.log.5 2020/2/23 下午 01:45:46
+file name is =Player_4.150.11.1001.log
+C:\ProgramData\BlueStacks\Logs\Player_4.150.11.1001.log 2020/2/23 下午 01:45:46
+file name is =tombstone_00
+C:\ProgramData\BlueStacks\Logs\tombstone_00 2020/2/23 下午 01:45:46
+Engine logs copied successfully
+Oem.cfg file successfully copied from C:\ProgramData\BlueStacks\Engine\Oem.cfg
+file name is =BstkCore.log
+C:\ProgramData\BlueStacks\Engine\Android\Logs\BstkCore.log 2020/2/23 下午 01:45:46
+file name is =BstkCore.log.1
+C:\ProgramData\BlueStacks\Engine\Android\Logs\BstkCore.log.1 2020/2/23 下午 01:45:46
+file name is =BstkCore.log.2
+C:\ProgramData\BlueStacks\Engine\Android\Logs\BstkCore.log.2 2020/2/23 下午 01:45:46
+file name is =BstkCore.log.3
+C:\ProgramData\BlueStacks\Engine\Android\Logs\BstkCore.log.3 2020/2/23 下午 01:45:46
+file name is =BstkCore.log
+C:\ProgramData\BlueStacks\Engine\Android_1\Logs\BstkCore.log 2020/2/23 下午 01:45:46
+file name is =BstkCore.log.1
+C:\ProgramData\BlueStacks\Engine\Android_1\Logs\BstkCore.log.1 2020/2/23 下午 01:45:46
+file name is =BstkCore.log.2
+C:\ProgramData\BlueStacks\Engine\Android_1\Logs\BstkCore.log.2 2020/2/23 下午 01:45:46
+file name is =BstkCore.log.3
+C:\ProgramData\BlueStacks\Engine\Android_1\Logs\BstkCore.log.3 2020/2/23 下午 01:45:46
+file name is =BstkCore.log
+C:\ProgramData\BlueStacks\Engine\Android_2\Logs\BstkCore.log 2020/2/23 下午 01:45:46
+file name is =BstkCore.log.1
+C:\ProgramData\BlueStacks\Engine\Android_2\Logs\BstkCore.log.1 2020/2/23 下午 01:45:46
+file name is =BstkCore.log.2
+C:\ProgramData\BlueStacks\Engine\Android_2\Logs\BstkCore.log.2 2020/2/23 下午 01:45:46
+file name is =BstkCore.log.3
+C:\ProgramData\BlueStacks\Engine\Android_2\Logs\BstkCore.log.3 2020/2/23 下午 01:45:46
+file name is =BstkCore.log
+C:\ProgramData\BlueStacks\Engine\Android_3\Logs\BstkCore.log 2020/2/23 下午 01:45:46
+file name is =BstkCore.log.1
+C:\ProgramData\BlueStacks\Engine\Android_3\Logs\BstkCore.log.1 2020/2/23 下午 01:45:46
+file name is =BstkCore.log.2
+C:\ProgramData\BlueStacks\Engine\Android_3\Logs\BstkCore.log.2 2020/2/23 下午 01:45:46
+file name is =BstkCore.log.3
+C:\ProgramData\BlueStacks\Engine\Android_3\Logs\BstkCore.log.3 2020/2/23 下午 01:45:46
+file name is =BstkCore.log
+C:\ProgramData\BlueStacks\Engine\Android_4\Logs\BstkCore.log 2020/2/23 下午 01:45:46
+file name is =BstkCore.log.1
+C:\ProgramData\BlueStacks\Engine\Android_4\Logs\BstkCore.log.1 2020/2/23 下午 01:45:46
+file name is =BstkCore.log.2
+C:\ProgramData\BlueStacks\Engine\Android_4\Logs\BstkCore.log.2 2020/2/23 下午 01:45:46
+file name is =BstkCore.log.3
+C:\ProgramData\BlueStacks\Engine\Android_4\Logs\BstkCore.log.3 2020/2/23 下午 01:45:46
+file name is =BstkGlobal.xml
+C:\ProgramData\BlueStacks\Engine\Manager\BstkGlobal.xml 2020/2/23 下午 01:45:46
+file name is =BstkGlobal.xml.in
+C:\ProgramData\BlueStacks\Engine\Manager\BstkGlobal.xml.in 2020/2/23 下午 01:45:46
+file name is =BstkServer.log
+C:\ProgramData\BlueStacks\Engine\Manager\BstkServer.log 2020/2/23 下午 01:45:46
+file name is =BstkServer.log.1
+C:\ProgramData\BlueStacks\Engine\Manager\BstkServer.log.1 2020/2/23 下午 01:45:46
+file name is =BstkServer.log.2
+C:\ProgramData\BlueStacks\Engine\Manager\BstkServer.log.2 2020/2/23 下午 01:45:46
+file name is =BstkServer.log.3
+C:\ProgramData\BlueStacks\Engine\Manager\BstkServer.log.3 2020/2/23 下午 01:45:46
+file name is =BstkServer.log.4
+C:\ProgramData\BlueStacks\Engine\Manager\BstkServer.log.4 2020/2/23 下午 01:45:46
+CollectVmLogs end
+Dumping Product Configuration  :::::::  2020/2/23 下午 01:45:46
+Dumping Process Information  :::::::  2020/2/23 下午 01:45:46
+In DumpEventsLogs name = Application
+In DumpProcessList
+In DumpEventsLogs name = System
+command run successfully
+Dumping Android Logs at 45:51  ::::::: 2020/2/23 下午 01:45:51
+Running Command  :::::::  2020/2/23 下午 01:45:51
+    prog: C:\Program Files\BlueStacks\HD-Adb.exe
+    args: "-s" "127.0.0.1:5556" "shell" "bugreport"
+    out:  C:\Users\Lawrence\AppData\Local\Temp\nxl4av5s.y5c\Android-DumpState.log
+command run successfully
+Running Command  :::::::  2020/2/23 下午 01:46:03
+    prog: C:\Program Files\BlueStacks\HD-Adb.exe
+    args: "-s" "127.0.0.1:5556" "shell" "wget" "-O" "/dev/null" "http://www.google.com"
+    out:  C:\Users\Lawrence\AppData\Local\Temp\nxl4av5s.y5c\Android_wget.txt
+command run successfully
+Running Command  :::::::  2020/2/23 下午 01:46:04
+    prog: C:\Program Files\BlueStacks\HD-Adb.exe
+    args: "-s" "127.0.0.1:5556" "pull" "/data/anr/traces.txt.bugreport" "C:\Users\Lawrence\AppData\Local\Temp\nxl4av5s.y5c\Android_anr-traces.txt.bugreport"
+    out:  C:\Users\Lawrence\AppData\Local\Temp\nxl4av5s.y5c\Android_anr-out.txt
+command run successfully
+Running Command  :::::::  2020/2/23 下午 01:46:04
+    prog: C:\Program Files\BlueStacks\HD-Adb.exe
+    args: "-s" "127.0.0.1:5556" "pull" "/data/anr/problemreport.png" "C:\Users\Lawrence\AppData\Local\Temp\nxl4av5s.y5c\Android_screenshot.png"
+    out:  
+command run successfully
+Running Command  :::::::  2020/2/23 下午 01:46:04
+    prog: C:\Program Files\BlueStacks\HD-Adb.exe
+    args: "-s" "127.0.0.1:5556" "pull" "/data/downloads/.config_user.db" "C:\Users\Lawrence\AppData\Local\Temp\nxl4av5s.y5c\.config_user.db"
+    out:  
+command run successfully
+Running Command  :::::::  2020/2/23 下午 01:46:04
+    prog: C:\Program Files\BlueStacks\HD-Adb.exe
+    args: "-s" "127.0.0.1:5556" "pull" "/data/downloads/.config.db" "C:\Users\Lawrence\AppData\Local\Temp\nxl4av5s.y5c\.config.db"
+    out:  
+command run successfully
+Running Command  :::::::  2020/2/23 下午 01:46:04
+    prog: C:\Program Files\BlueStacks\HD-Adb.exe
+    args: "-s" "127.0.0.1:5556" "pull" "/data/downloads/config.db" "C:\Users\Lawrence\AppData\Local\Temp\nxl4av5s.y5c\config.db"
+    out:  
+command run successfully
+Done CollectGuestArtifacts  :::::::  2020/2/23 下午 01:46:04
+Fetching Guest Information  :::::::  2020/2/23 下午 01:46:04
+Running Command  :::::::  2020/2/23 下午 01:46:04
+    prog: C:\Program Files\BlueStacks\HD-Adb.exe
+    args: "connect" "127.0.0.1:5565"
+    out:  
+command run successfully
+Dumping Android Logs at 46:4  ::::::: 2020/2/23 下午 01:46:04
+Running Command  :::::::  2020/2/23 下午 01:46:04
+    prog: C:\Program Files\BlueStacks\HD-Adb.exe
+    args: "-s" "127.0.0.1:5565" "shell" "bugreport"
+    out:  C:\Users\Lawrence\AppData\Local\Temp\nxl4av5s.y5c\Android_1-DumpState.log
+Dumping Driver Query  :::::::  2020/2/23 下午 01:46:14
+Running Command  :::::::  2020/2/23 下午 01:46:14
+    prog: driverquery.exe
+    args: /V
+    out:  C:\Users\Lawrence\AppData\Local\Temp\nxl4av5s.y5c\DriverQuery.txt
+command run successfully
+Running Command  :::::::  2020/2/23 下午 01:46:15
+    prog: reg.exe
+    args: EXPORT HKLM\Software\BlueStacks "C:\Users\Lawrence\AppData\Local\Temp\nxl4av5s.y5c\RegHKLM.txt"
+    out:  
+command run successfully
+Running Command  :::::::  2020/2/23 下午 01:46:15
+    prog: reg.exe
+    args: EXPORT HKLM\System\CurrentControlSet\services\BlueStacksDrv "C:\Users\Lawrence\AppData\Local\Temp\nxl4av5s.y5c\RegBstkDrv.txt"
+    out:  
+command run successfully
+Dumping File listing  :::::::  2020/2/23 下午 01:46:15
+Running Command  :::::::  2020/2/23 下午 01:46:15
+    prog: cmd
+    args: /c dir "C:\Program Files\BlueStacks\" /s
+    out:  C:\Users\Lawrence\AppData\Local\Temp\nxl4av5s.y5c\InstallDirListing.txt
+command run successfully
+Running Command  :::::::  2020/2/23 下午 01:46:15
+    prog: cmd
+    args: /c dir "C:\ProgramData\BlueStacks\Engine\" /s
+    out:  C:\Users\Lawrence\AppData\Local\Temp\nxl4av5s.y5c\DataDirListing.txt
+command run successfully
+Dumping System Information  :::::::  2020/2/23 下午 01:46:15
+Running Command  :::::::  2020/2/23 下午 01:46:15
+    prog: SystemInfo
+    args: 
+    out:  C:\Users\Lawrence\AppData\Local\Temp\nxl4av5s.y5c\SystemInfo.txt
+command run successfully
+Running Command  :::::::  2020/2/23 下午 01:46:16
+    prog: C:\Program Files\BlueStacks\HD-Adb.exe
+    args: "-s" "127.0.0.1:5565" "shell" "wget" "-O" "/dev/null" "http://www.google.com"
+    out:  C:\Users\Lawrence\AppData\Local\Temp\nxl4av5s.y5c\Android_1_wget.txt
+command run successfully
+Running Command  :::::::  2020/2/23 下午 01:46:16
+    prog: C:\Program Files\BlueStacks\HD-Adb.exe
+    args: "-s" "127.0.0.1:5565" "pull" "/data/anr/traces.txt.bugreport" "C:\Users\Lawrence\AppData\Local\Temp\nxl4av5s.y5c\Android_1_anr-traces.txt.bugreport"
+    out:  C:\Users\Lawrence\AppData\Local\Temp\nxl4av5s.y5c\Android_1_anr-out.txt
+command run successfully
+Running Command  :::::::  2020/2/23 下午 01:46:16
+    prog: C:\Program Files\BlueStacks\HD-Adb.exe
+    args: "-s" "127.0.0.1:5565" "pull" "/data/anr/problemreport.png" "C:\Users\Lawrence\AppData\Local\Temp\nxl4av5s.y5c\Android_1_screenshot.png"
+    out:  
+command run successfully
+Running Command  :::::::  2020/2/23 下午 01:46:16
+    prog: C:\Program Files\BlueStacks\HD-Adb.exe
+    args: "-s" "127.0.0.1:5565" "pull" "/data/downloads/.config_user.db" "C:\Users\Lawrence\AppData\Local\Temp\nxl4av5s.y5c\.config_user.db"
+    out:  
+command run successfully
+Running Command  :::::::  2020/2/23 下午 01:46:16
+    prog: C:\Program Files\BlueStacks\HD-Adb.exe
+    args: "-s" "127.0.0.1:5565" "pull" "/data/downloads/.config.db" "C:\Users\Lawrence\AppData\Local\Temp\nxl4av5s.y5c\.config.db"
+    out:  
+command run successfully
+Running Command  :::::::  2020/2/23 下午 01:46:16
+    prog: C:\Program Files\BlueStacks\HD-Adb.exe
+    args: "-s" "127.0.0.1:5565" "pull" "/data/downloads/config.db" "C:\Users\Lawrence\AppData\Local\Temp\nxl4av5s.y5c\config.db"
+    out:  
+command run successfully
+Done CollectGuestArtifacts  :::::::  2020/2/23 下午 01:46:16
+Fetching Guest Information  :::::::  2020/2/23 下午 01:46:16
+Running Command  :::::::  2020/2/23 下午 01:46:16
+    prog: C:\Program Files\BlueStacks\HD-Adb.exe
+    args: "connect" "127.0.0.1:5575"
+    out:  
+command run successfully
+Dumping Android Logs at 46:17  ::::::: 2020/2/23 下午 01:46:17
+Running Command  :::::::  2020/2/23 下午 01:46:17
+    prog: C:\Program Files\BlueStacks\HD-Adb.exe
+    args: "-s" "127.0.0.1:5575" "shell" "bugreport"
+    out:  C:\Users\Lawrence\AppData\Local\Temp\nxl4av5s.y5c\Android_2-DumpState.log
+command run successfully
+Windows Update Version Information  :::::::  2020/2/23 下午 01:46:18
+file name is =BlueStacks-Installer_2019-11-20_21-56-0.log
+C:\Users\Lawrence\AppData\Local\BlueStacks\BlueStacks-Installer_2019-11-20_21-56-0.log 2020/2/23 下午 01:46:18
+file name is =BlueStacks-Installer_2019-11-25_16-12-5.log
+C:\Users\Lawrence\AppData\Local\BlueStacks\BlueStacks-Installer_2019-11-25_16-12-5.log 2020/2/23 下午 01:46:18
+file name is =BlueStacks-Installer_2019-11-26_22-42-22.log
+C:\Users\Lawrence\AppData\Local\BlueStacks\BlueStacks-Installer_2019-11-26_22-42-22.log 2020/2/23 下午 01:46:18
+file name is =BlueStacks-Installer_2019-12-12_6-31-33.log
+C:\Users\Lawrence\AppData\Local\BlueStacks\BlueStacks-Installer_2019-12-12_6-31-33.log 2020/2/23 下午 01:46:18
+file name is =BlueStacks-Installer_2019-12-13_16-7-28.log
+C:\Users\Lawrence\AppData\Local\BlueStacks\BlueStacks-Installer_2019-12-13_16-7-28.log 2020/2/23 下午 01:46:18
+file name is =BlueStacks-Installer_2019-12-23_17-7-36.log
+C:\Users\Lawrence\AppData\Local\BlueStacks\BlueStacks-Installer_2019-12-23_17-7-36.log 2020/2/23 下午 01:46:18
+file name is =BlueStacks-Installer_2019-12-31_15-23-8.log
+C:\Users\Lawrence\AppData\Local\BlueStacks\BlueStacks-Installer_2019-12-31_15-23-8.log 2020/2/23 下午 01:46:18
+file name is =BlueStacks-Installer_2020-1-16_5-52-6.log
+C:\Users\Lawrence\AppData\Local\BlueStacks\BlueStacks-Installer_2020-1-16_5-52-6.log 2020/2/23 下午 01:46:18
+file name is =BlueStacks-Installer_2020-1-9_12-37-21.log
+C:\Users\Lawrence\AppData\Local\BlueStacks\BlueStacks-Installer_2020-1-9_12-37-21.log 2020/2/23 下午 01:46:18
+file name is =BlueStacks-Installer_2020-2-4_21-0-21.log
+C:\Users\Lawrence\AppData\Local\BlueStacks\BlueStacks-Installer_2020-2-4_21-0-21.log 2020/2/23 下午 01:46:18
+file name is =BlueStacks-Uninstaller_2019-12-31_15-2-30.log
+C:\Users\Lawrence\AppData\Local\BlueStacks\BlueStacks-Uninstaller_2019-12-31_15-2-30.log 2020/2/23 下午 01:46:18
+file name is =BlueStacksMicroInstaller_4.140.12.1002.log
+C:\Users\Lawrence\AppData\Local\BlueStacks\BlueStacksMicroInstaller_4.140.12.1002.log 2020/2/23 下午 01:46:18
+file name is =BlueStacksMicroInstaller_4.140.16.1002.log
+C:\Users\Lawrence\AppData\Local\BlueStacks\BlueStacksMicroInstaller_4.140.16.1002.log 2020/2/23 下午 01:46:18
+file name is =BlueStacksMicroInstaller_4.150.0.1118.log
+C:\Users\Lawrence\AppData\Local\BlueStacks\BlueStacksMicroInstaller_4.150.0.1118.log 2020/2/23 下午 01:46:18
+file name is =BlueStacksMicroInstaller_4.150.10.1032.log
+C:\Users\Lawrence\AppData\Local\BlueStacks\BlueStacksMicroInstaller_4.150.10.1032.log 2020/2/23 下午 01:46:18
+file name is =BlueStacksMicroInstaller_4.150.11.1001.log
+C:\Users\Lawrence\AppData\Local\BlueStacks\BlueStacksMicroInstaller_4.150.11.1001.log 2020/2/23 下午 01:46:18
+file name is =BlueStacksMicroInstaller_4.150.12.1001.log
+C:\Users\Lawrence\AppData\Local\BlueStacks\BlueStacksMicroInstaller_4.150.12.1001.log 2020/2/23 下午 01:46:18
+file name is =BlueStacksMicroInstaller_4.150.12.4001.log
+C:\Users\Lawrence\AppData\Local\BlueStacks\BlueStacksMicroInstaller_4.150.12.4001.log 2020/2/23 下午 01:46:18
+file name is =BlueStacksMicroInstaller_4.160.10.4001.log
+C:\Users\Lawrence\AppData\Local\BlueStacks\BlueStacksMicroInstaller_4.160.10.4001.log 2020/2/23 下午 01:46:18
+file name is =BlueStacksMicroInstaller_4.170.0.1042.log
+C:\Users\Lawrence\AppData\Local\BlueStacks\BlueStacksMicroInstaller_4.170.0.1042.log 2020/2/23 下午 01:46:18
+trying to get host nslookup  :::::::  2020/2/23 下午 01:46:18
+Running Command  :::::::  2020/2/23 下午 01:46:18
+    prog: nslookup
+    args: www.google.com
+    out:  C:\Users\Lawrence\AppData\Local\Temp\nxl4av5s.y5c\Host-nslookup.txt
+command run successfully
+trying to get host ipconfig  :::::::  2020/2/23 下午 01:46:18
+Running Command  :::::::  2020/2/23 下午 01:46:18
+    prog: ipconfig
+    args: /all
+    out:  C:\Users\Lawrence\AppData\Local\Temp\nxl4av5s.y5c\Host-ipconfig.txt
+command run successfully
+trying to get host netstat  :::::::  2020/2/23 下午 01:46:18
+Running Command  :::::::  2020/2/23 下午 01:46:18
+    prog: netstat
+    args: -aon
+    out:  C:\Users\Lawrence\AppData\Local\Temp\nxl4av5s.y5c\Host-netstat.txt
+command run successfully
+trying to get host net statistics workstation  :::::::  2020/2/23 下午 01:46:19
+Running Command  :::::::  2020/2/23 下午 01:46:19
+    prog: net
+    args: statistics workstation
+    out:  C:\Users\Lawrence\AppData\Local\Temp\nxl4av5s.y5c\Host-netstatistics.txt
+command run successfully
+Copying Attached File :::::::  2020/2/23 下午 01:46:19
+Dumping Startup Programs  :::::::  2020/2/23 下午 01:46:19
+Dumping Installed Programs  :::::::  2020/2/23 下午 01:46:19
+Dumping HD-GLCheck.exe output  :::::::  2020/2/23 下午 01:46:19
+Running Command  :::::::  2020/2/23 下午 01:46:19
+    prog: C:\Program Files\BlueStacks\HD-GLCheck.exe
+    args: 
+    out:  C:\Users\Lawrence\AppData\Local\Temp\nxl4av5s.y5c\CurrentGLCheck.txt
+command run successfully
+Copying user cfg files :::::::  2020/2/23 下午 01:46:19
+Done CollectHostArtifacts at 46:19

@@ -1,0 +1,278 @@
+Key: AddressBook
+
+Key: BlueStacks
+Application Name: BlueStacks App Player
+Application Version: 4.170.0.1042
+
+Key: BlueStacks_bgp64
+Application Name: BlueStacks (64-bit)
+Application Version: 4.160.10.4001
+
+Key: BlueStacks_steam
+Application Name: BlueStacks App Player
+Application Version: 4.100.7.1002
+
+Key: Connection Manager
+
+Key: DirectDrawEx
+
+Key: DXM_Runtime
+
+Key: Fontcore
+
+Key: IE40
+
+Key: IE4Data
+
+Key: IE5BAKEX
+
+Key: IEData
+
+Key: MobileOptionPack
+
+Key: MPlayer2
+
+Key: SchedulingAgent
+
+Key: Steam App 1130700
+Application Name: AVABEL ONLINE
+Application Version: 
+
+Key: Steam App 872410
+Application Name: 三國志14
+Application Version: 
+
+Key: VulkanRT1.0.65.1
+Application Name: Vulkan Run Time Libraries 1.0.65.1
+Application Version: 1.0.65.1
+
+Key: WIC
+
+Key: WinRAR archiver
+Application Name: WinRAR 5.50 (64 位元)
+Application Version: 5.50.0
+
+Key: {32DC821E-4A7D-4878-BEE8-337FA153D7F2}
+Application Name: Update for Windows 10 for x64-based Systems (KB4023057)
+Application Version: 2.63.0.0
+
+Key: {3BAE4496-6F6C-4330-A8AA-B93D3D346FA5}
+Application Name: Update for Windows 10 for x64-based Systems (KB4480730)
+Application Version: 2.53.0.0
+
+Key: {50A2BC33-C9CD-3BF1-A8FF-53C10A0B183C}
+Application Name: Microsoft Visual C++ 2015 x64 Minimum Runtime - 14.0.24215
+Application Version: 14.0.24215
+
+Key: {8220EEFE-38CD-377E-8595-13398D740ACE}
+Application Name: Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17
+Application Version: 9.0.30729
+
+Key: {90120000-0028-0404-1000-0000000FF1CE}
+Application Name: Microsoft Office IME (Chinese (Traditional)) 2007
+Application Version: 12.0.4518.1014
+
+Key: {90120000-002A-0000-1000-0000000FF1CE}
+Application Name: Microsoft Office Office 64-bit Components 2007
+Application Version: 12.0.4518.1014
+
+Key: {90120000-002A-0404-1000-0000000FF1CE}
+Application Name: Microsoft Office Shared 64-bit MUI (Chinese (Traditional)) 2007
+Application Version: 12.0.4518.1014
+
+Key: {A9133872-C9FE-45CC-8F01-D1947B0F09EA}
+Application Name: Intel(R) Computing Improvement Program
+Application Version: 2.4.04755
+
+Key: {B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_Ansel
+Application Name: NVIDIA Ansel
+Application Version: 391.35
+
+Key: {B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_Display.ControlPanel
+Application Name: NVIDIA 控制面板 441.41
+Application Version: 441.41
+
+Key: {B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_installer
+Application Name: NVIDIA Install Application
+Application Version: 2.1002.334.1
+
+Key: {B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_NVDisplayContainer
+Application Name: NVIDIA Display Container
+Application Version: 1.19
+
+Key: {B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_NVDisplayContainerLS
+Application Name: NVIDIA Display Container LS
+Application Version: 1.19
+
+Key: {B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_NVDisplayPluginWatchdog
+Application Name: NVIDIA Display Watchdog Plugin
+Application Version: 1.19
+
+Key: {B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_NVDisplaySessionContainer
+Application Name: NVIDIA Display Session Container
+Application Version: 1.19
+
+Key: {EF1EC6A9-17DE-3DA9-B040-686A1E8A8B04}
+Application Name: Microsoft Visual C++ 2015 x64 Additional Runtime - 14.0.24215
+Application Version: 14.0.24215
+
+Key: {F339C545-24DC-4870-AA32-6EB6B0500B95}
+Application Name: UpdateAssistant
+Application Version: 1.24.0.0
+
+Key: AddressBook
+
+Key: Advanced SystemCare_is1
+Application Name: Advanced SystemCare
+Application Version: 13.0.2
+
+Key: AnyDesk
+Application Name: AnyDesk
+Application Version: ad 5.4.0
+
+Key: BluestacksST
+
+Key: Connection Manager
+
+Key: DirectDrawEx
+
+Key: Driver Booster_is1
+Application Name: Driver Booster 7
+Application Version: 7.1.0
+
+Key: DXM_Runtime
+
+Key: EXCEL
+Application Name: Microsoft Office Excel 2007
+Application Version: 12.0.4518.1014
+
+Key: Fontcore
+
+Key: Google Chrome
+Application Name: Google Chrome
+Application Version: 80.0.3987.116
+
+Key: IE40
+
+Key: IE4Data
+
+Key: IE5BAKEX
+
+Key: IEData
+
+Key: IObit Malware Fighter_is1
+Application Name: IObit Malware Fighter 7
+Application Version: 7.3.0.5799
+
+Key: LDPlayer
+Application Name: 雷電模擬器
+Application Version: 3.79
+
+Key: MobileOptionPack
+
+Key: MPlayer2
+
+Key: Nox
+Application Name: Nox APP Player
+Application Version: 6.5.0.1
+
+Key: Purple_plaync
+Application Name: PURPLE
+Application Version: 
+
+Key: SchedulingAgent
+
+Key: Steam
+Application Name: Steam
+Application Version: 2.10.91.91
+
+Key: TeamViewer
+Application Name: TeamViewer
+Application Version: 15.1.3937
+
+Key: WeChat
+Application Name: WeChat
+Application Version: 2.7.1.85
+
+Key: WIC
+
+Key: {0D78BEE2-F8FF-4498-AF1A-3FF81CED8AC6}
+Application Name: Razer Synapse
+Application Version: 2.21.24.10
+
+Key: {192E8D15-4497-476D-A2DC-728658EFDF5D}
+Application Name: Intel Driver && Support Assistant
+Application Version: 20.1.5.6
+
+Key: {1F3B31B1-8ED6-47EB-B147-B4CADBE1C8B8}
+Application Name: 中華郵政WebATM交易元件
+Application Version: 1.1.4
+
+Key: {20BF67A8-D81A-4489-8225-FABAA0896E2D}_is1
+Application Name: Apowersoft Online Launcher version 1.7.7
+Application Version: 1.7.7
+
+Key: {60EC980A-BDA2-4CB6-A427-B07A5498B4CA}
+Application Name: Google Update Helper
+Application Version: 1.3.35.441
+
+Key: {69BCE4AC-9572-3271-A2FB-9423BDA36A43}
+Application Name: Microsoft Visual C++ 2015 x86 Additional Runtime - 14.0.24215
+Application Version: 14.0.24215
+
+Key: {90120000-0016-0000-0000-0000000FF1CE}
+Application Name: Microsoft Office Excel 2007
+Application Version: 12.0.4518.1014
+
+Key: {90120000-0016-0404-0000-0000000FF1CE}
+Application Name: Microsoft Office Excel MUI (Chinese (Traditional)) 2007
+Application Version: 12.0.4518.1014
+
+Key: {90120000-001F-0404-0000-0000000FF1CE}
+Application Name: Microsoft Office Proof (Chinese (Traditional)) 2007
+Application Version: 12.0.4518.1014
+
+Key: {90120000-001F-0409-0000-0000000FF1CE}
+Application Name: Microsoft Office Proof (English) 2007
+Application Version: 12.0.4518.1014
+
+Key: {90120000-0028-0404-0000-0000000FF1CE}
+Application Name: Microsoft Office IME (Chinese (Traditional)) 2007
+Application Version: 12.0.4518.1014
+
+Key: {90120000-002C-0404-0000-0000000FF1CE}
+Application Name: Microsoft Office Proofing (Chinese (Traditional)) 2007
+Application Version: 12.0.4518.1014
+
+Key: {90120000-006E-0404-0000-0000000FF1CE}
+Application Name: Microsoft Office Shared MUI (Chinese (Traditional)) 2007
+Application Version: 12.0.4518.1014
+
+Key: {BBF2AC74-720C-3CB3-8291-5E34039232FA}
+Application Name: Microsoft Visual C++ 2015 x86 Minimum Runtime - 14.0.24215
+Application Version: 14.0.24215
+
+Key: {d992c12e-cab2-426f-bde3-fb8c53950b0d}
+Application Name: Microsoft Visual C++ 2015 Redistributable (x64) - 14.0.24215
+Application Version: 14.0.24215.1
+
+Key: {db2b22b1-e3a5-41f6-8761-26638d7a7003}
+Application Name: Intel® Driver & Support Assistant
+Application Version: 20.1.5.6
+
+Key: {E08DA8EA-A9C6-4B1D-95FC-432642B999BD}
+Application Name: 리니지2M
+Application Version: 1.00.00000
+
+Key: {e2803110-78b3-4664-a479-3611a381656a}
+Application Name: Microsoft Visual C++ 2015 Redistributable (x86) - 14.0.24215
+Application Version: 14.0.24215.1
+
+Key: {F132AF7F-7BCA-4EDE-8A7C-958108FE7DBC}
+Application Name: Realtek High Definition Audio Driver
+Application Version: 6.0.1.8228
+
+Key: 玉山銀行晶片金融卡安控元件
+Application Name: 玉山銀行晶片金融卡安控元件
+Application Version: 1.0.0.4
+

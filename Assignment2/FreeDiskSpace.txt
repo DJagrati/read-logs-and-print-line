@@ -1,0 +1,14 @@
+Drive C:\
+  Drive type: Fixed
+  Volume label: 
+  File system: NTFS
+  Available space to current user:    87125098496 bytes
+  Total available space:              87125098496 bytes
+  Total size of drive:               254198902784 bytes 
+Drive D:\
+  Drive type: Fixed
+  Volume label: 
+  File system: NTFS
+  Available space to current user:  1895153119232 bytes
+  Total available space:            1895153119232 bytes
+  Total size of drive:              2000396742656 bytes 

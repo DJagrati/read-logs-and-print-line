@@ -1,0 +1,12 @@
+[  8%] /data/anr/traces.txt.bugreport
+[ 16%] /data/anr/traces.txt.bugreport
+[ 25%] /data/anr/traces.txt.bugreport
+[ 33%] /data/anr/traces.txt.bugreport
+[ 41%] /data/anr/traces.txt.bugreport
+[ 50%] /data/anr/traces.txt.bugreport
+[ 58%] /data/anr/traces.txt.bugreport
+[ 67%] /data/anr/traces.txt.bugreport
+[ 75%] /data/anr/traces.txt.bugreport
+[ 83%] /data/anr/traces.txt.bugreport
+[ 92%] /data/anr/traces.txt.bugreport
+[100%] /data/anr/traces.txt.bugreport

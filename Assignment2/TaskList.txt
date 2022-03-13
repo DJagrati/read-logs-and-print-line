@@ -1,0 +1,3394 @@
+Total CPU Usage: 32.48479%
+
+Process:  SecurityHealthSystray
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  services
+CPU Usage:    0%
+
+Process:  WmiPrvSE
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  chrome
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  chrome
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  chrome
+CPU Usage:    0%
+
+Process:  GameBar
+CPU Usage:    0%
+
+Process:  RuntimeBroker
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  ApplicationFrameHost
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  taskhostw
+CPU Usage:    0%
+
+Process:  IMF
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  taskhostw
+CPU Usage:    0%
+
+Process:  smartscreen
+CPU Usage:    0%
+
+Process:  ImeBroker
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  RuntimeBroker
+CPU Usage:    0%
+
+Process:  chrome
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  AnyDesk
+CPU Usage:    0%
+
+Process:  backgroundTaskHost
+CPU Usage:    0%
+
+Process:  dllhost
+CPU Usage:    0%
+
+Process:  spoolsv
+CPU Usage:    0%
+
+Process:  csrss
+CPU Usage:    0%
+
+Process:  StartMenuExperienceHost
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  wechatweb
+CPU Usage:    0%
+
+Process:  chrome
+CPU Usage:    0%
+
+Process:  wininit
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  SkypeApp
+CPU Usage:    0%
+
+Process:  Bluestacks
+CPU Usage:    0%
+
+Process:  IMFsrv
+CPU Usage:    0%
+
+Process:  backgroundTaskHost
+CPU Usage:    0%
+
+Process:  SearchUI
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  audiodg
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  chrome
+CPU Usage:    0%
+
+Process:  Monitor
+CPU Usage:    0%
+
+Process:  HD-LogCollector
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  OneDrive
+CPU Usage:    0%
+
+Process:  chrome
+CPU Usage:    0%
+
+Process:  WeChat
+CPU Usage:    0%
+
+Process:  dwm
+CPU Usage:    0%
+
+Process:  ldnews
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  chrome
+CPU Usage:    0%
+
+Process:  DSATray
+CPU Usage:    0%
+
+Process:  ASCService
+CPU Usage:    0%
+
+Process:  chrome
+CPU Usage:    0%
+
+Process:  HxOutlook
+CPU Usage:    0%
+
+Process:  Bluestacks
+CPU Usage:    0%
+
+Process:  SgrmBroker
+CPU Usage:    0%
+
+Process:  chrome
+CPU Usage:    0%
+
+Process:  IMFTips
+CPU Usage:    0%
+
+Process:  TeamViewer_Service
+CPU Usage:    0%
+
+Process:  Microsoft.Photos
+CPU Usage:    0%
+
+Process:  RuntimeBroker
+CPU Usage:    0%
+
+Process:  chrome
+CPU Usage:    0%
+
+Process:  HD-Player
+CPU Usage:    0%
+
+Process:  IMFCore
+CPU Usage:    0%
+
+Process:  dllhost
+CPU Usage:    0%
+
+Process:  fontdrvhost
+CPU Usage:    0%
+
+Process:  sppsvc
+CPU Usage:    0%
+
+Process:  conhost
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  csrss
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  chrome
+CPU Usage:    0%
+
+Process:  HxTsr
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  HD-Player
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  notepad
+CPU Usage:    0%
+
+Process:  ShellExperienceHost
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  GoogleCrashHandler
+CPU Usage:    0%
+
+Process:  RzSynapse
+CPU Usage:    0%
+
+Process:  winlogon
+CPU Usage:    0%
+
+Process:  WindowsInternal.ComposableShell.Experiences.TextInput.InputApp
+CPU Usage:    0%
+
+Process:  MusNotifyIcon
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  RuntimeBroker
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  chrome
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  RuntimeBroker
+CPU Usage:    0%
+
+Process:  chrome
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  Bluestacks
+CPU Usage:    0%
+
+Process:  HD-Adb
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  RuntimeBroker
+CPU Usage:    0%
+
+Process:  sihost
+CPU Usage:    0%
+
+Process:  Bluestacks
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  YourPhone
+CPU Usage:    0%
+
+Process:  chrome
+CPU Usage:    0%
+
+Process:  explorer
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  GameBarFT
+CPU Usage:    0%
+
+Process:  NisSrv
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  Memory Compression
+CPU Usage:    0%
+
+Process:  notepad
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  wechatweb
+CPU Usage:    0%
+
+Process:  RtkAudUService64
+CPU Usage:    0%
+
+Process:  RuntimeBroker
+CPU Usage:    0%
+
+Process:  SearchIndexer
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  Bluestacks
+CPU Usage:    0%
+
+Process:  DSAService
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  RuntimeBroker
+CPU Usage:    0%
+
+Process:  RuntimeBroker
+CPU Usage:    0%
+
+Process:  Registry
+CPU Usage:    0%
+
+Process:  CompPkgSrv
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  Bluestacks
+CPU Usage:    0%
+
+Process:  chrome
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  chrome
+CPU Usage:    0%
+
+Process:  SppExtComObj
+CPU Usage:    0%
+
+Process:  ctfmon
+CPU Usage:    0%
+
+Process:  SecurityHealthHost
+CPU Usage:    0%
+
+Process:  fontdrvhost
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  ESUNATM_Service
+CPU Usage:    0%
+
+Process:  GoogleCrashHandler64
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  esrv
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  chrome
+CPU Usage:    0%
+
+Process:  BstkSVC
+CPU Usage:    0%
+
+Process:  chrome
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  HD-Player
+CPU Usage:    0%
+
+Process:  Bluestacks
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  DriverBooster
+CPU Usage:    0%
+
+Process:  SkypeBackgroundHost
+CPU Usage:    0%
+
+Process:  AnyDesk
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  ASCTray
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  RuntimeBroker
+CPU Usage:    0%
+
+Process:  chrome
+CPU Usage:    0%
+
+Process:  RuntimeBroker
+CPU Usage:    0%
+
+Process:  chrome
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  WWAHost
+CPU Usage:    0%
+
+Process:  RstMwService
+CPU Usage:    0%
+
+Process:  SystemSettings
+CPU Usage:    0%
+
+Process:  HxAccounts
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  SecurityHealthService
+CPU Usage:    0%
+
+Process:  RtkAudUService64
+CPU Usage:    0%
+
+Process:  DSAUpdateService
+CPU Usage:    0%
+
+Process:  chrome
+CPU Usage:    0%
+
+Process:  HD-Player
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  smss
+CPU Usage:    0%
+
+Process:  conhost
+CPU Usage:    0%
+
+Process:  SurSvc
+CPU Usage:    0%
+
+Process:  HD-Player
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  MsMpEng
+CPU Usage:    0%
+
+Process:  WeChatApp
+CPU Usage:    0%
+
+Process:  svchost
+CPU Usage:    0%
+
+Process:  lsass
+CPU Usage:    0%
+
+Process:  esrv_svc
+CPU Usage:    0%
+
+Process:  System
+CPU Usage:    0%
+
+Process:  Bluestacks
+CPU Usage:    0%
+
+Process:  Idle
+CPU Usage:    0%
+
+
+Name:        System Idle Process
+Path:        
+Command:     
+PID:         0
+User:        
+Session:     0
+Threads:     12
+Handles:     0
+Memory (KB): 8
+Peak (KB):   12
+User (ms):   0
+Kernel (ms): 31281759312
+
+Name:        System
+Path:        
+Command:     
+PID:         4
+User:        
+Session:     0
+Threads:     241
+Handles:     6791
+Memory (KB): 3344
+Peak (KB):   15860
+User (ms):   0
+Kernel (ms): 213588921
+
+Name:        Registry
+Path:        
+Command:     
+PID:         144
+User:        
+Session:     0
+Threads:     4
+Handles:     0
+Memory (KB): 35116
+Peak (KB):   256324
+User (ms):   0
+Kernel (ms): 46718
+
+Name:        smss.exe
+Path:        
+Command:     
+PID:         456
+User:        
+Session:     0
+Threads:     2
+Handles:     53
+Memory (KB): 432
+Peak (KB):   1300
+User (ms):   0
+Kernel (ms): 140
+
+Name:        csrss.exe
+Path:        
+Command:     
+PID:         684
+User:        
+Session:     0
+Threads:     12
+Handles:     744
+Memory (KB): 1724
+Peak (KB):   5612
+User (ms):   23921
+Kernel (ms): 163406
+
+Name:        wininit.exe
+Path:        
+Command:     
+PID:         776
+User:        
+Session:     0
+Threads:     1
+Handles:     156
+Memory (KB): 1064
+Peak (KB):   7068
+User (ms):   0
+Kernel (ms): 46
+
+Name:        csrss.exe
+Path:        
+Command:     
+PID:         784
+User:        
+Session:     1
+Threads:     18
+Handles:     912
+Memory (KB): 2204
+Peak (KB):   249392
+User (ms):   12046
+Kernel (ms): 10296921
+
+Name:        services.exe
+Path:        
+Command:     
+PID:         848
+User:        
+Session:     0
+Threads:     11
+Handles:     703
+Memory (KB): 7004
+Peak (KB):   10632
+User (ms):   196625
+Kernel (ms): 423312
+
+Name:        lsass.exe
+Path:        
+Command:     
+PID:         868
+User:        
+Session:     0
+Threads:     9
+Handles:     1674
+Memory (KB): 10020
+Peak (KB):   17712
+User (ms):   1236890
+Kernel (ms): 878078
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         976
+User:        
+Session:     0
+Threads:     2
+Handles:     86
+Memory (KB): 224
+Peak (KB):   4136
+User (ms):   15
+Kernel (ms): 15
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         1000
+User:        
+Session:     0
+Threads:     25
+Handles:     1317
+Memory (KB): 62164
+Peak (KB):   90656
+User (ms):   2658750
+Kernel (ms): 1557546
+
+Name:        fontdrvhost.exe
+Path:        
+Command:     
+PID:         116
+User:        
+Session:     0
+Threads:     5
+Handles:     32
+Memory (KB): 0
+Peak (KB):   38980
+User (ms):   250
+Kernel (ms): 46
+
+Name:        winlogon.exe
+Path:        
+Command:     
+PID:         648
+User:        
+Session:     1
+Threads:     8
+Handles:     269
+Memory (KB): 1408
+Peak (KB):   19820
+User (ms):   281
+Kernel (ms): 1468
+
+Name:        fontdrvhost.exe
+Path:        
+Command:     
+PID:         688
+User:        
+Session:     1
+Threads:     5
+Handles:     32
+Memory (KB): 3224
+Peak (KB):   52756
+User (ms):   69156
+Kernel (ms): 18406
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         1040
+User:        
+Session:     0
+Threads:     17
+Handles:     1494
+Memory (KB): 15828
+Peak (KB):   18168
+User (ms):   786000
+Kernel (ms): 499468
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         1088
+User:        
+Session:     0
+Threads:     4
+Handles:     306
+Memory (KB): 2968
+Peak (KB):   9068
+User (ms):   12484
+Kernel (ms): 21937
+
+Name:        dwm.exe
+Path:        
+Command:     
+PID:         1152
+User:        
+Session:     1
+Threads:     48
+Handles:     1569
+Memory (KB): 27800
+Peak (KB):   142464
+User (ms):   140756000
+Kernel (ms): 63978125
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         1300
+User:        
+Session:     0
+Threads:     3
+Handles:     225
+Memory (KB): 4416
+Peak (KB):   12184
+User (ms):   250
+Kernel (ms): 1234
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         1308
+User:        
+Session:     0
+Threads:     5
+Handles:     253
+Memory (KB): 464
+Peak (KB):   10968
+User (ms):   500
+Kernel (ms): 453
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         1344
+User:        
+Session:     0
+Threads:     5
+Handles:     172
+Memory (KB): 3812
+Peak (KB):   11616
+User (ms):   4109
+Kernel (ms): 2234
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         1352
+User:        
+Session:     0
+Threads:     3
+Handles:     176
+Memory (KB): 228
+Peak (KB):   8224
+User (ms):   0
+Kernel (ms): 62
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         1360
+User:        
+Session:     0
+Threads:     9
+Handles:     262
+Memory (KB): 2596
+Peak (KB):   11672
+User (ms):   796
+Kernel (ms): 375
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         1444
+User:        
+Session:     0
+Threads:     12
+Handles:     422
+Memory (KB): 9000
+Peak (KB):   15932
+User (ms):   109671
+Kernel (ms): 427406
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         1520
+User:        
+Session:     0
+Threads:     6
+Handles:     138
+Memory (KB): 340
+Peak (KB):   6268
+User (ms):   0
+Kernel (ms): 15
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         1616
+User:        
+Session:     0
+Threads:     7
+Handles:     2612
+Memory (KB): 4488
+Peak (KB):   10348
+User (ms):   26703
+Kernel (ms): 53500
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         1720
+User:        
+Session:     0
+Threads:     8
+Handles:     449
+Memory (KB): 10056
+Peak (KB):   21708
+User (ms):   151718
+Kernel (ms): 265781
+
+Name:        ASCService.exe
+Path:        
+Command:     
+PID:         1732
+User:        
+Session:     0
+Threads:     38
+Handles:     2513
+Memory (KB): 8296
+Peak (KB):   18748
+User (ms):   112328
+Kernel (ms): 890750
+
+Name:        IMFsrv.exe
+Path:        
+Command:     
+PID:         1728
+User:        
+Session:     0
+Threads:     47
+Handles:     506
+Memory (KB): 5680
+Peak (KB):   24504
+User (ms):   811625
+Kernel (ms): 2358062
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         1820
+User:        
+Session:     0
+Threads:     3
+Handles:     157
+Memory (KB): 4360
+Peak (KB):   12396
+User (ms):   6375
+Kernel (ms): 3359
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         1876
+User:        
+Session:     0
+Threads:     4
+Handles:     161
+Memory (KB): 3488
+Peak (KB):   9144
+User (ms):   7500
+Kernel (ms): 6156
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         1912
+User:        
+Session:     0
+Threads:     7
+Handles:     221
+Memory (KB): 3332
+Peak (KB):   8044
+User (ms):   28625
+Kernel (ms): 34500
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         2012
+User:        
+Session:     0
+Threads:     3
+Handles:     221
+Memory (KB): 232
+Peak (KB):   11460
+User (ms):   78
+Kernel (ms): 78
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         1032
+User:        
+Session:     0
+Threads:     5
+Handles:     380
+Memory (KB): 3856
+Peak (KB):   12756
+User (ms):   609
+Kernel (ms): 1109
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         1504
+User:        
+Session:     0
+Threads:     12
+Handles:     299
+Memory (KB): 4700
+Peak (KB):   9380
+User (ms):   71296
+Kernel (ms): 179125
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         2148
+User:        
+Session:     0
+Threads:     9
+Handles:     7625
+Memory (KB): 4484
+Peak (KB):   9464
+User (ms):   33546
+Kernel (ms): 33265
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         2484
+User:        
+Session:     0
+Threads:     5
+Handles:     210
+Memory (KB): 4856
+Peak (KB):   8664
+User (ms):   20078
+Kernel (ms): 43921
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         2644
+User:        
+Session:     0
+Threads:     6
+Handles:     230
+Memory (KB): 4644
+Peak (KB):   24536
+User (ms):   169078
+Kernel (ms): 1997531
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         2652
+User:        
+Session:     0
+Threads:     3
+Handles:     279
+Memory (KB): 720
+Peak (KB):   6028
+User (ms):   1421
+Kernel (ms): 2578
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         2660
+User:        
+Session:     0
+Threads:     5
+Handles:     172
+Memory (KB): 3860
+Peak (KB):   8024
+User (ms):   375
+Kernel (ms): 312
+
+Name:        Memory Compression
+Path:        
+Command:     
+PID:         2752
+User:        
+Session:     0
+Threads:     70
+Handles:     0
+Memory (KB): 1662288
+Peak (KB):   2731752
+User (ms):   0
+Kernel (ms): 40939578
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         2792
+User:        
+Session:     0
+Threads:     2
+Handles:     220
+Memory (KB): 228
+Peak (KB):   9052
+User (ms):   62
+Kernel (ms): 140
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         2824
+User:        
+Session:     0
+Threads:     3
+Handles:     276
+Memory (KB): 228
+Peak (KB):   8796
+User (ms):   109
+Kernel (ms): 187
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         2832
+User:        
+Session:     0
+Threads:     8
+Handles:     192
+Memory (KB): 2084
+Peak (KB):   17744
+User (ms):   6234
+Kernel (ms): 4000
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         2840
+User:        
+Session:     0
+Threads:     14
+Handles:     417
+Memory (KB): 10852
+Peak (KB):   46456
+User (ms):   506484
+Kernel (ms): 223843
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         1672
+User:        
+Session:     0
+Threads:     12
+Handles:     559
+Memory (KB): 5908
+Peak (KB):   104688
+User (ms):   30210734
+Kernel (ms): 16920125
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         3092
+User:        
+Session:     0
+Threads:     5
+Handles:     305
+Memory (KB): 14852
+Peak (KB):   28872
+User (ms):   856093
+Kernel (ms): 159062
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         3116
+User:        
+Session:     0
+Threads:     4
+Handles:     134
+Memory (KB): 1892
+Peak (KB):   6816
+User (ms):   2593
+Kernel (ms): 5390
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         3124
+User:        
+Session:     0
+Threads:     9
+Handles:     363
+Memory (KB): 2660
+Peak (KB):   10076
+User (ms):   1453
+Kernel (ms): 1234
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         3180
+User:        
+Session:     0
+Threads:     4
+Handles:     259
+Memory (KB): 544
+Peak (KB):   15112
+User (ms):   78
+Kernel (ms): 187
+
+Name:        spoolsv.exe
+Path:        
+Command:     
+PID:         3372
+User:        
+Session:     0
+Threads:     9
+Handles:     482
+Memory (KB): 2976
+Peak (KB):   15216
+User (ms):   984
+Kernel (ms): 1843
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         3384
+User:        
+Session:     0
+Threads:     3
+Handles:     237
+Memory (KB): 1196
+Peak (KB):   6128
+User (ms):   11093
+Kernel (ms): 5265
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         3484
+User:        
+Session:     0
+Threads:     12
+Handles:     414
+Memory (KB): 6496
+Peak (KB):   23272
+User (ms):   52250
+Kernel (ms): 58375
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         3588
+User:        
+Session:     0
+Threads:     5
+Handles:     186
+Memory (KB): 2160
+Peak (KB):   8392
+User (ms):   1921
+Kernel (ms): 1781
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         3684
+User:        
+Session:     0
+Threads:     2
+Handles:     124
+Memory (KB): 228
+Peak (KB):   7400
+User (ms):   15
+Kernel (ms): 15
+
+Name:        AnyDesk.exe
+Path:        
+Command:     
+PID:         3808
+User:        
+Session:     0
+Threads:     3
+Handles:     322
+Memory (KB): 1732
+Peak (KB):   29468
+User (ms):   37265
+Kernel (ms): 19468
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         3828
+User:        
+Session:     0
+Threads:     8
+Handles:     312
+Memory (KB): 9540
+Peak (KB):   125904
+User (ms):   33609
+Kernel (ms): 70718
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         3836
+User:        
+Session:     0
+Threads:     18
+Handles:     388
+Memory (KB): 53616
+Peak (KB):   137316
+User (ms):   2342640
+Kernel (ms): 1827046
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         3852
+User:        
+Session:     0
+Threads:     5
+Handles:     483
+Memory (KB): 1556
+Peak (KB):   13716
+User (ms):   1046
+Kernel (ms): 968
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         3860
+User:        
+Session:     0
+Threads:     2
+Handles:     132
+Memory (KB): 232
+Peak (KB):   6876
+User (ms):   15
+Kernel (ms): 15
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         3868
+User:        
+Session:     0
+Threads:     6
+Handles:     412
+Memory (KB): 9068
+Peak (KB):   21732
+User (ms):   6906
+Kernel (ms): 10781
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         3876
+User:        
+Session:     0
+Threads:     13
+Handles:     577
+Memory (KB): 30948
+Peak (KB):   56864
+User (ms):   62765
+Kernel (ms): 106906
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         3892
+User:        
+Session:     0
+Threads:     3
+Handles:     136
+Memory (KB): 228
+Peak (KB):   5836
+User (ms):   31
+Kernel (ms): 62
+
+Name:        SurSvc.exe
+Path:        
+Command:     
+PID:         3904
+User:        
+Session:     0
+Threads:     8
+Handles:     838
+Memory (KB): 25776
+Peak (KB):   336448
+User (ms):   7942671
+Kernel (ms): 1086203
+
+Name:        RtkAudUService64.exe
+Path:        
+Command:     
+PID:         3912
+User:        
+Session:     0
+Threads:     8
+Handles:     304
+Memory (KB): 0
+Peak (KB):   10320
+User (ms):   46
+Kernel (ms): 187
+
+Name:        RstMwService.exe
+Path:        
+Command:     
+PID:         3920
+User:        
+Session:     0
+Threads:     5
+Handles:     143
+Memory (KB): 0
+Peak (KB):   7540
+User (ms):   62
+Kernel (ms): 62
+
+Name:        TeamViewer_Service.exe
+Path:        
+Command:     
+PID:         4152
+User:        
+Session:     0
+Threads:     26
+Handles:     484
+Memory (KB): 1268
+Peak (KB):   56548
+User (ms):   5468
+Kernel (ms): 4796
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         4180
+User:        
+Session:     0
+Threads:     5
+Handles:     133
+Memory (KB): 672
+Peak (KB):   5692
+User (ms):   31
+Kernel (ms): 46
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         4320
+User:        
+Session:     0
+Threads:     7
+Handles:     209
+Memory (KB): 2996
+Peak (KB):   9160
+User (ms):   3968
+Kernel (ms): 4343
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         4368
+User:        
+Session:     0
+Threads:     14
+Handles:     404
+Memory (KB): 2180
+Peak (KB):   12488
+User (ms):   531
+Kernel (ms): 765
+
+Name:        WmiPrvSE.exe
+Path:        
+Command:     
+PID:         5588
+User:        
+Session:     0
+Threads:     12
+Handles:     456
+Memory (KB): 17564
+Peak (KB):   28576
+User (ms):   2926750
+Kernel (ms): 2988468
+
+Name:        SearchIndexer.exe
+Path:        
+Command:     
+PID:         5756
+User:        
+Session:     0
+Threads:     21
+Handles:     839
+Memory (KB): 27504
+Peak (KB):   55692
+User (ms):   407968
+Kernel (ms): 1015000
+
+Name:        sihost.exe
+Path:        C:\WINDOWS\system32\sihost.exe
+Command:     sihost.exe
+PID:         5984
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     11
+Handles:     812
+Memory (KB): 19136
+Peak (KB):   39128
+User (ms):   191031
+Kernel (ms): 631171
+
+Name:        svchost.exe
+Path:        C:\WINDOWS\system32\svchost.exe
+Command:     C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup -s CDPUserSvc
+PID:         6072
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     10
+Handles:     307
+Memory (KB): 9940
+Peak (KB):   22292
+User (ms):   1120250
+Kernel (ms): 638562
+
+Name:        svchost.exe
+Path:        C:\WINDOWS\system32\svchost.exe
+Command:     C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup -s WpnUserService
+PID:         6132
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     8
+Handles:     4331
+Memory (KB): 44716
+Peak (KB):   56996
+User (ms):   137093
+Kernel (ms): 95171
+
+Name:        taskhostw.exe
+Path:        C:\WINDOWS\system32\taskhostw.exe
+Command:     taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E}
+PID:         1244
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     9
+Handles:     350
+Memory (KB): 8672
+Peak (KB):   18248
+User (ms):   17578
+Kernel (ms): 44703
+
+Name:        Monitor.exe
+Path:        
+Command:     
+PID:         960
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     20
+Handles:     565
+Memory (KB): 14392
+Peak (KB):   64724
+User (ms):   13846953
+Kernel (ms): 21109640
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         5508
+User:        
+Session:     0
+Threads:     4
+Handles:     170
+Memory (KB): 224
+Peak (KB):   8120
+User (ms):   15
+Kernel (ms): 31
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         6128
+User:        
+Session:     0
+Threads:     5
+Handles:     270
+Memory (KB): 8328
+Peak (KB):   20772
+User (ms):   14578
+Kernel (ms): 13671
+
+Name:        ctfmon.exe
+Path:        
+Command:     
+PID:         6156
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     12
+Handles:     779
+Memory (KB): 10752
+Peak (KB):   34692
+User (ms):   225687
+Kernel (ms): 234906
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         6612
+User:        
+Session:     0
+Threads:     13
+Handles:     360
+Memory (KB): 7340
+Peak (KB):   18304
+User (ms):   10500
+Kernel (ms): 7484
+
+Name:        explorer.exe
+Path:        C:\WINDOWS\Explorer.EXE
+Command:     C:\WINDOWS\Explorer.EXE
+PID:         6644
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     126
+Handles:     3237
+Memory (KB): 76016
+Peak (KB):   221480
+User (ms):   3586406
+Kernel (ms): 5991250
+
+Name:        svchost.exe
+Path:        C:\WINDOWS\system32\svchost.exe
+Command:     C:\WINDOWS\system32\svchost.exe -k ClipboardSvcGroup -p -s cbdhsvc
+PID:         6980
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     5
+Handles:     322
+Memory (KB): 1484
+Peak (KB):   26840
+User (ms):   51500
+Kernel (ms): 53140
+
+Name:        StartMenuExperienceHost.exe
+Path:        C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe
+Command:     "C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe" -ServerName:App.AppXywbrabmsek0gm3tkwpr5kwzbs55tkqay.mca
+PID:         7048
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     21
+Handles:     797
+Memory (KB): 40580
+Peak (KB):   96544
+User (ms):   245406
+Kernel (ms): 255828
+
+Name:        dllhost.exe
+Path:        C:\WINDOWS\system32\DllHost.exe
+Command:     C:\WINDOWS\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5}
+PID:         7252
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     2
+Handles:     142
+Memory (KB): 352
+Peak (KB):   17308
+User (ms):   9640
+Kernel (ms): 6734
+
+Name:        RuntimeBroker.exe
+Path:        C:\Windows\System32\RuntimeBroker.exe
+Command:     C:\Windows\System32\RuntimeBroker.exe -Embedding
+PID:         7484
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     5
+Handles:     352
+Memory (KB): 16196
+Peak (KB):   31164
+User (ms):   195843
+Kernel (ms): 374000
+
+Name:        svchost.exe
+Path:        C:\WINDOWS\System32\svchost.exe
+Command:     C:\WINDOWS\System32\svchost.exe -k UnistackSvcGroup
+PID:         7524
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     4
+Handles:     514
+Memory (KB): 232
+Peak (KB):   22812
+User (ms):   3203
+Kernel (ms): 2250
+
+Name:        SearchUI.exe
+Path:        C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe
+Command:     "C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe" -ServerName:CortanaUI.AppXa50dqqa5gqv4a428c9y1jjw7m3btvepj.mca
+PID:         7656
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     55
+Handles:     1399
+Memory (KB): 110396
+Peak (KB):   222636
+User (ms):   107093
+Kernel (ms): 82984
+
+Name:        RuntimeBroker.exe
+Path:        C:\Windows\System32\RuntimeBroker.exe
+Command:     C:\Windows\System32\RuntimeBroker.exe -Embedding
+PID:         7808
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     13
+Handles:     649
+Memory (KB): 20236
+Peak (KB):   53084
+User (ms):   49562
+Kernel (ms): 68218
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         7860
+User:        
+Session:     0
+Threads:     3
+Handles:     117
+Memory (KB): 1748
+Peak (KB):   6972
+User (ms):   671
+Kernel (ms): 1750
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         8796
+User:        
+Session:     0
+Threads:     4
+Handles:     339
+Memory (KB): 11456
+Peak (KB):   23680
+User (ms):   3718
+Kernel (ms): 4687
+
+Name:        RuntimeBroker.exe
+Path:        C:\Windows\System32\RuntimeBroker.exe
+Command:     C:\Windows\System32\RuntimeBroker.exe -Embedding
+PID:         9776
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     2
+Handles:     309
+Memory (KB): 11996
+Peak (KB):   22440
+User (ms):   60703
+Kernel (ms): 177031
+
+Name:        SecurityHealthSystray.exe
+Path:        C:\Windows\System32\SecurityHealthSystray.exe
+Command:     "C:\Windows\System32\SecurityHealthSystray.exe" 
+PID:         9912
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     1
+Handles:     153
+Memory (KB): 2692
+Peak (KB):   8928
+User (ms):   62
+Kernel (ms): 375
+
+Name:        SecurityHealthService.exe
+Path:        
+Command:     
+PID:         9948
+User:        
+Session:     0
+Threads:     7
+Handles:     399
+Memory (KB): 8968
+Peak (KB):   15376
+User (ms):   1828
+Kernel (ms): 2515
+
+Name:        ESUNATM_Service.exe
+Path:        C:\Windows\ESUNATM_Service.exe
+Command:     "C:\Windows\ESUNATM_Service.exe" 
+PID:         10020
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     3
+Handles:     297
+Memory (KB): 736
+Peak (KB):   18592
+User (ms):   390
+Kernel (ms): 250
+
+Name:        RtkAudUService64.exe
+Path:        C:\Windows\System32\RtkAudUService64.exe
+Command:     "C:\Windows\System32\RtkAudUService64.exe" -background
+PID:         10072
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     6
+Handles:     235
+Memory (KB): 300
+Peak (KB):   8568
+User (ms):   0
+Kernel (ms): 156
+
+Name:        ASCTray.exe
+Path:        C:\Program Files (x86)\IObit\Advanced SystemCare\ASCTray.exe
+Command:     "C:\Program Files (x86)\IObit\Advanced SystemCare\ASCTray.exe" /Auto
+PID:         5660
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     4
+Handles:     318
+Memory (KB): 1556
+Peak (KB):   48352
+User (ms):   953
+Kernel (ms): 3390
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         10552
+User:        
+Session:     0
+Threads:     3
+Handles:     2278
+Memory (KB): 4620
+Peak (KB):   9060
+User (ms):   27687
+Kernel (ms): 339843
+
+Name:        audiodg.exe
+Path:        
+Command:     
+PID:         10664
+User:        
+Session:     0
+Threads:     25
+Handles:     1318
+Memory (KB): 11016
+Peak (KB):   113632
+User (ms):   101170953
+Kernel (ms): 10327125
+
+Name:        ldnews.exe
+Path:        C:\ChangZhi\LDPlayer\news\ldnews.exe
+Command:     "C:\ChangZhi\LDPlayer\news\ldnews.exe" 
+PID:         11064
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     7
+Handles:     312
+Memory (KB): 5520
+Peak (KB):   16276
+User (ms):   3312
+Kernel (ms): 2593
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         11136
+User:        
+Session:     0
+Threads:     7
+Handles:     285
+Memory (KB): 2488
+Peak (KB):   29736
+User (ms):   13781
+Kernel (ms): 2453
+
+Name:        AnyDesk.exe
+Path:        C:\Program Files (x86)\AnyDesk\AnyDesk.exe
+Command:     "C:\Program Files (x86)\AnyDesk\AnyDesk.exe"  --control
+PID:         10404
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     5
+Handles:     275
+Memory (KB): 1116
+Peak (KB):   25656
+User (ms):   265
+Kernel (ms): 500
+
+Name:        IMF.exe
+Path:        
+Command:     
+PID:         11156
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     20
+Handles:     12699
+Memory (KB): 31348
+Peak (KB):   690400
+User (ms):   1988578
+Kernel (ms): 6103187
+
+Name:        IMFTips.exe
+Path:        
+Command:     
+PID:         11480
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     5
+Handles:     335
+Memory (KB): 1692
+Peak (KB):   33312
+User (ms):   906
+Kernel (ms): 5781
+
+Name:        ApplicationFrameHost.exe
+Path:        C:\WINDOWS\system32\ApplicationFrameHost.exe
+Command:     C:\WINDOWS\system32\ApplicationFrameHost.exe -Embedding
+PID:         6852
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     4
+Handles:     510
+Memory (KB): 380
+Peak (KB):   41032
+User (ms):   13859
+Kernel (ms): 34906
+
+Name:        IMFCore.exe
+Path:        
+Command:     
+PID:         11304
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     9
+Handles:     243
+Memory (KB): 1248
+Peak (KB):   468052
+User (ms):   97406
+Kernel (ms): 68718
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         9924
+User:        
+Session:     0
+Threads:     9
+Handles:     300
+Memory (KB): 10636
+Peak (KB):   19368
+User (ms):   8875
+Kernel (ms): 6875
+
+Name:        SystemSettings.exe
+Path:        C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+Command:     "C:\Windows\ImmersiveControlPanel\SystemSettings.exe" -ServerName:microsoft.windows.immersivecontrolpanel
+PID:         9520
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     36
+Handles:     937
+Memory (KB): 20
+Peak (KB):   103508
+User (ms):   562
+Kernel (ms): 1093
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         11556
+User:        
+Session:     0
+Threads:     7
+Handles:     216
+Memory (KB): 228
+Peak (KB):   7668
+User (ms):   187
+Kernel (ms): 390
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         1676
+User:        
+Session:     0
+Threads:     4
+Handles:     239
+Memory (KB): 5152
+Peak (KB):   12008
+User (ms):   104046
+Kernel (ms): 494859
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         8004
+User:        
+Session:     0
+Threads:     6
+Handles:     407
+Memory (KB): 300
+Peak (KB):   15936
+User (ms):   125
+Kernel (ms): 265
+
+Name:        SgrmBroker.exe
+Path:        
+Command:     
+PID:         2000
+User:        
+Session:     0
+Threads:     5
+Handles:     89
+Memory (KB): 5128
+Peak (KB):   7068
+User (ms):   93828
+Kernel (ms): 47484
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         11752
+User:        
+Session:     0
+Threads:     9
+Handles:     387
+Memory (KB): 11936
+Peak (KB):   41556
+User (ms):   19359
+Kernel (ms): 9578
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         10860
+User:        
+Session:     0
+Threads:     8
+Handles:     221
+Memory (KB): 4688
+Peak (KB):   9788
+User (ms):   343
+Kernel (ms): 765
+
+Name:        WeChat.exe
+Path:        C:\Program Files (x86)\Tencent\WeChat\WeChat.exe
+Command:     "C:\Program Files (x86)\Tencent\WeChat\WeChat.exe" 
+PID:         12792
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     54
+Handles:     2236
+Memory (KB): 43704
+Peak (KB):   153948
+User (ms):   8036296
+Kernel (ms): 4820578
+
+Name:        wechatweb.exe
+Path:        C:\Program Files (x86)\Tencent\WeChat\WeChatWeb.exe
+Command:     WeChatWeb.exe --type=gpu-process --channel="12792.0.2057676608\2122054829" --mojo-application-channel-token=52C1BFA41404F139F575E3250134980D --no-sandbox --lang=zh-CN --locales-dir-path="C:\Users\Lawrence\AppData\Roaming\Tencent\WeChat\All Users\CefResources\locales" --log-file="C:\Users\Lawrence\AppData\Roaming\Tencent\WeChat\log\cef.log" --resources-dir-path="C:\Users\Lawrence\AppData\Roaming\Tencent\WeChat\All Users\CefResources" --supports-dual-gpus=false --gpu-driver-bug-workarounds=5,14,18,31,56,70 --gpu-vendor-id=0x10de --gpu-device-id=0x1b80 --gpu-driver-vendor=NVIDIA --gpu-driver-version=26.21.14.4108 --gpu-driver-date=10-22-2019 --lang=zh-CN --locales-dir-path="C:\Users\Lawrence\AppData\Roaming\Tencent\WeChat\All Users\CefResources\locales" --log-file="C:\Users\Lawrence\AppData\Roaming\Tencent\WeChat\log\cef.log" --resources-dir-path="C:\Users\Lawrence\AppData\Roaming\Tencent\WeChat\All Users\CefResources" --mojo-platform-channel-handle=3092 /prefetch:2
+PID:         12988
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     21
+Handles:     422
+Memory (KB): 1604
+Peak (KB):   36492
+User (ms):   1500
+Kernel (ms): 734
+
+Name:        conhost.exe
+Path:        
+Command:     
+PID:         4332
+User:        
+Session:     0
+Threads:     3
+Handles:     133
+Memory (KB): 732
+Peak (KB):   11508
+User (ms):   20281
+Kernel (ms): 34171
+
+Name:        esrv.exe
+Path:        C:\Program Files\Intel\SUR\QUEENCREEK\x64\esrv.exe
+Command:     "C:\Program Files\Intel\SUR\QUEENCREEK\x64\esrv.exe" "--start" "--start_options_handle" "888"
+PID:         3112
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     42
+Handles:     630
+Memory (KB): 7304
+Peak (KB):   74212
+User (ms):   585687
+Kernel (ms): 2181500
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         11816
+User:        
+Session:     0
+Threads:     17
+Handles:     545
+Memory (KB): 9548
+Peak (KB):   20644
+User (ms):   24859
+Kernel (ms): 5390
+
+Name:        dllhost.exe
+Path:        C:\WINDOWS\system32\DllHost.exe
+Command:     C:\WINDOWS\system32\DllHost.exe /Processid:{973D20D7-562D-44B9-B70B-5A0F49CCDF3F}
+PID:         11464
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     6
+Handles:     512
+Memory (KB): 464
+Peak (KB):   14652
+User (ms):   796
+Kernel (ms): 5468
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         13524
+User:        
+Session:     0
+Threads:     4
+Handles:     284
+Memory (KB): 1908
+Peak (KB):   11964
+User (ms):   125
+Kernel (ms): 265
+
+Name:        chrome.exe
+Path:        C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Command:     "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" 
+PID:         12704
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     35
+Handles:     4363
+Memory (KB): 357464
+Peak (KB):   1139584
+User (ms):   22019234
+Kernel (ms): 11003250
+
+Name:        chrome.exe
+Path:        C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Command:     "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=crashpad-handler "--user-data-dir=C:\Users\Lawrence\AppData\Local\Google\Chrome\User Data" /prefetch:7 --monitor-self-annotation=ptype=crashpad-handler "--database=C:\Users\Lawrence\AppData\Local\Google\Chrome\User Data\Crashpad" "--metrics-dir=C:\Users\Lawrence\AppData\Local\Google\Chrome\User Data" --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=plat=Win64 --annotation=prod=Chrome --annotation=ver=79.0.3945.88 --initial-client-data=0x90,0x94,0x98,0x8c,0x9c,0x7ffa96dadd08,0x7ffa96dadd18,0x7ffa96dadd28
+PID:         13132
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     7
+Handles:     252
+Memory (KB): 1880
+Peak (KB):   8620
+User (ms):   593
+Kernel (ms): 4796
+
+Name:        chrome.exe
+Path:        C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Command:     "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=watcher --main-thread-id=16132 --on-initialized-event-handle=72 --parent-handle=436 /prefetch:6
+PID:         1208
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     2
+Handles:     142
+Memory (KB): 344
+Peak (KB):   8788
+User (ms):   93
+Kernel (ms): 125
+
+Name:        chrome.exe
+Path:        C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Command:     "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=utility --field-trial-handle=1216,2109052433983359937,10511497137060647309,131072 --lang=zh-TW --service-sandbox-type=network --enable-audio-service-sandbox --service-request-channel-token=4162394336419059937 --mojo-platform-channel-handle=2060 /prefetch:8
+PID:         13956
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     14
+Handles:     480
+Memory (KB): 60600
+Peak (KB):   154796
+User (ms):   5479781
+Kernel (ms): 3561765
+
+Name:        chrome.exe
+Path:        C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Command:     "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1216,2109052433983359937,10511497137060647309,131072 --lang=zh-TW --extension-process --disable-oor-cors --enable-auto-reload --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --service-request-channel-token=9605811432607512475 --renderer-client-id=4 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=3432 /prefetch:1
+PID:         11568
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     15
+Handles:     239
+Memory (KB): 5416
+Peak (KB):   31424
+User (ms):   3515
+Kernel (ms): 1500
+
+Name:        chrome.exe
+Path:        C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Command:     "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=utility --field-trial-handle=1216,2109052433983359937,10511497137060647309,131072 --lang=zh-TW --service-sandbox-type=audio --enable-audio-service-sandbox --service-request-channel-token=6477628345727727949 --mojo-platform-channel-handle=7152 --ignored=" --type=renderer " /prefetch:8
+PID:         18396
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     7
+Handles:     277
+Memory (KB): 4352
+Peak (KB):   15464
+User (ms):   2142640
+Kernel (ms): 799437
+
+Name:        CompPkgSrv.exe
+Path:        C:\Windows\System32\CompPkgSrv.exe
+Command:     C:\Windows\System32\CompPkgSrv.exe -Embedding
+PID:         18244
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     1
+Handles:     161
+Memory (KB): 0
+Peak (KB):   8636
+User (ms):   1484
+Kernel (ms): 828
+
+Name:        ShellExperienceHost.exe
+Path:        C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+Command:     "C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca
+PID:         5832
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     60
+Handles:     2207
+Memory (KB): 8
+Peak (KB):   171700
+User (ms):   106875
+Kernel (ms): 111078
+
+Name:        RuntimeBroker.exe
+Path:        C:\Windows\System32\RuntimeBroker.exe
+Command:     C:\Windows\System32\RuntimeBroker.exe -Embedding
+PID:         15448
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     4
+Handles:     336
+Memory (KB): 844
+Peak (KB):   23852
+User (ms):   3781
+Kernel (ms): 7187
+
+Name:        ImeBroker.exe
+Path:        C:\Windows\System32\IME\SHARED\imebroker.exe
+Command:     C:\Windows\System32\IME\SHARED\imebroker.exe -Embedding
+PID:         7696
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     3
+Handles:     265
+Memory (KB): 220
+Peak (KB):   12688
+User (ms):   12312
+Kernel (ms): 45171
+
+Name:        WindowsInternal.ComposableShell.Experiences.TextInput.InputApp.exe
+Path:        C:\Windows\SystemApps\InputApp_cw5n1h2txyewy\WindowsInternal.ComposableShell.Experiences.TextInput.InputApp.exe
+Command:     "C:\Windows\SystemApps\InputApp_cw5n1h2txyewy\WindowsInternal.ComposableShell.Experiences.TextInput.InputApp.exe" -ServerName:App.AppXagta193n5rpf7mheremt3yyfa1g555vc.mca
+PID:         10980
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     27
+Handles:     830
+Memory (KB): 9564
+Peak (KB):   52992
+User (ms):   60703
+Kernel (ms): 61828
+
+Name:        svchost.exe
+Path:        C:\WINDOWS\system32\svchost.exe
+Command:     C:\WINDOWS\system32\svchost.exe -k PrintWorkflow -s PrintWorkflowUserSvc
+PID:         6844
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     3
+Handles:     142
+Memory (KB): 232
+Peak (KB):   7356
+User (ms):   31
+Kernel (ms): 140
+
+Name:        notepad.exe
+Path:        C:\WINDOWS\system32\notepad.exe
+Command:     "C:\WINDOWS\system32\notepad.exe" 
+PID:         8784
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     2
+Handles:     331
+Memory (KB): 244
+Peak (KB):   27244
+User (ms):   6468
+Kernel (ms): 24515
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         17988
+User:        
+Session:     0
+Threads:     5
+Handles:     196
+Memory (KB): 2036
+Peak (KB):   10800
+User (ms):   218
+Kernel (ms): 203
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         18204
+User:        
+Session:     0
+Threads:     5
+Handles:     172
+Memory (KB): 824
+Peak (KB):   7424
+User (ms):   1109
+Kernel (ms): 1609
+
+Name:        DriverBooster.exe
+Path:        
+Command:     
+PID:         17736
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     22
+Handles:     741
+Memory (KB): 5684
+Peak (KB):   100392
+User (ms):   107468
+Kernel (ms): 162843
+
+Name:        WeChatApp.exe
+Path:        C:\Program Files (x86)\Tencent\WeChat\WeChatApp.exe
+Command:     "C:\Program Files (x86)\Tencent\WeChat\WeChatApp.exe" --applet_init_config="{\"appId\":\"preload_1578907382017_2\",\"appVersion\":0,\"brandName\":\"\",\"clientVersion\":1644626264,\"debugType\":0,\"deviceType\":\"Windows+10\",\"iconUrl\":\"\",\"isNativeView\":false,\"isPreload\":true,\"isTest\":false,\"moduleListInfo\":\"\",\"orientation\":\"\",\"originalFlag\":0,\"originalRedirectUrl\":\"\",\"referrer\":{\"agentId\":\"\",\"appId\":\"\",\"launchScene\":10086,\"sourceType\":0},\"shareKey\":\"\",\"shareName\":\"\",\"uin\":\"770110533\",\"username\":\"\",\"versionState\":0,\"wxIconUrl\":\"\"}" --applet_init_config_ex="{\"clientJsExtInfo\":\"\",\"dataPath\":\"C:\\Users\\Lawrence\\Documents\\WeChat Files\\TTLawrez\\Applet\\\\\",\"debugJsonInfo\":\"\",\"enterPath\":\"\",\"extraData\":\"\",\"logPath\":\"C:\\Users\\Lawrence\\AppData\\Roaming\\Tencent\\WeChat\\log\\\\\",\"messageExtraData\":\"\",\"nickName\":\"\",\"openapiInvokeData\":\"\",\"operationInfo\":\"\",\"pkgDirPath\":\"\",\"privateExtraData\":\"\",\"signature\":\"\",\"tmpPath\":\"\",\"transitiveData\":\"\",\"url\":\"\",\"wxNickName\":\"\"}"
+PID:         22420
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     72
+Handles:     1034
+Memory (KB): 9180
+Peak (KB):   127256
+User (ms):   14765
+Kernel (ms): 11843
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         19764
+User:        
+Session:     0
+Threads:     2
+Handles:     171
+Memory (KB): 3724
+Peak (KB):   8312
+User (ms):   2062
+Kernel (ms): 8171
+
+Name:        SecurityHealthHost.exe
+Path:        C:\Windows\System32\SecurityHealthHost.exe
+Command:     C:\Windows\System32\SecurityHealthHost.exe {08728914-3F57-4D52-9E31-49DAECA5A80A} -Embedding
+PID:         26408
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     1
+Handles:     199
+Memory (KB): 0
+Peak (KB):   14724
+User (ms):   78
+Kernel (ms): 140
+
+Name:        RzSynapse.exe
+Path:        C:\Program Files (x86)\Razer\Synapse\RzSynapse.exe
+Command:     "C:\Program Files (x86)\Razer\Synapse\RzSynapse.exe" -launch
+PID:         28664
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     17
+Handles:     1852
+Memory (KB): 15600
+Peak (KB):   125844
+User (ms):   727859
+Kernel (ms): 5514656
+
+Name:        notepad.exe
+Path:        C:\WINDOWS\system32\notepad.exe
+Command:     "C:\WINDOWS\system32\notepad.exe" 
+PID:         22644
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     3
+Handles:     345
+Memory (KB): 276
+Peak (KB):   28856
+User (ms):   8921
+Kernel (ms): 34531
+
+Name:        chrome.exe
+Path:        C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Command:     "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1216,2109052433983359937,10511497137060647309,131072 --lang=zh-TW --disable-oor-cors --enable-auto-reload --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --service-request-channel-token=6744536154818851548 --renderer-client-id=1131 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=15280 /prefetch:1
+PID:         19528
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     15
+Handles:     426
+Memory (KB): 61856
+Peak (KB):   313900
+User (ms):   905234
+Kernel (ms): 89250
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         12392
+User:        
+Session:     0
+Threads:     4
+Handles:     205
+Memory (KB): 304
+Peak (KB):   15188
+User (ms):   15
+Kernel (ms): 156
+
+Name:        chrome.exe
+Path:        C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Command:     "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=gpu-process --field-trial-handle=1216,2109052433983359937,10511497137060647309,131072 --gpu-preferences=KAAAAAAAAADgAAAwAAAAAAAAYAAAAAAAEAAAAAAAAAAAAAAAAAAAACgAAAAEAAAAIAAAAAAAAAAoAAAAAAAAADAAAAAAAAAAOAAAAAAAAAAQAAAAAAAAAAAAAAAFAAAAEAAAAAAAAAAAAAAABgAAABAAAAAAAAAAAQAAAAUAAAAQAAAAAAAAAAEAAAAGAAAA --service-request-channel-token=13816860074753425496 --mojo-platform-channel-handle=836 --ignored=" --type=renderer " /prefetch:2
+PID:         27552
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     34
+Handles:     3004
+Memory (KB): 13188
+Peak (KB):   816616
+User (ms):   36808171
+Kernel (ms): 7296437
+
+Name:        GameBar.exe
+Path:        C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_3.36.6003.0_x64__8wekyb3d8bbwe\GameBar.exe
+Command:     "C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_3.36.6003.0_x64__8wekyb3d8bbwe\GameBar.exe" -ServerName:App.AppXbdkk0yrkwpcgeaem8zk81k8py1eaahny.mca
+PID:         30132
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     16
+Handles:     593
+Memory (KB): 6064
+Peak (KB):   71452
+User (ms):   11406
+Kernel (ms): 6921
+
+Name:        RuntimeBroker.exe
+Path:        C:\Windows\System32\RuntimeBroker.exe
+Command:     C:\Windows\System32\RuntimeBroker.exe -Embedding
+PID:         22184
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     2
+Handles:     307
+Memory (KB): 584
+Peak (KB):   26208
+User (ms):   875
+Kernel (ms): 2390
+
+Name:        GameBarFT.exe
+Path:        C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_3.36.6003.0_x64__8wekyb3d8bbwe\GameBarFT.exe
+Command:     "C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_3.36.6003.0_x64__8wekyb3d8bbwe\GameBarFT.exe" /InvokerPRAID: App
+PID:         21616
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     3
+Handles:     293
+Memory (KB): 840
+Peak (KB):   18504
+User (ms):   31
+Kernel (ms): 250
+
+Name:        taskhostw.exe
+Path:        
+Command:     
+PID:         19340
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     5
+Handles:     443
+Memory (KB): 7648
+Peak (KB):   21980
+User (ms):   359
+Kernel (ms): 1671
+
+Name:        chrome.exe
+Path:        C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Command:     "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1216,2109052433983359937,10511497137060647309,131072 --lang=zh-TW --disable-oor-cors --enable-auto-reload --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --service-request-channel-token=18172576560899629745 --renderer-client-id=1495 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=15212 /prefetch:1
+PID:         28908
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     15
+Handles:     317
+Memory (KB): 6576
+Peak (KB):   186436
+User (ms):   55734
+Kernel (ms): 8125
+
+Name:        smartscreen.exe
+Path:        C:\Windows\System32\smartscreen.exe
+Command:     C:\Windows\System32\smartscreen.exe -Embedding
+PID:         43068
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     15
+Handles:     494
+Memory (KB): 16252
+Peak (KB):   28644
+User (ms):   5593
+Kernel (ms): 10625
+
+Name:        chrome.exe
+Path:        C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Command:     "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1216,2109052433983359937,10511497137060647309,131072 --lang=zh-TW --disable-oor-cors --enable-auto-reload --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --service-request-channel-token=4343380993458807246 --renderer-client-id=3686 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=11328 /prefetch:1
+PID:         39196
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     19
+Handles:     384
+Memory (KB): 51848
+Peak (KB):   405108
+User (ms):   975671
+Kernel (ms): 111796
+
+Name:        GoogleCrashHandler.exe
+Path:        
+Command:     
+PID:         50220
+User:        
+Session:     0
+Threads:     3
+Handles:     181
+Memory (KB): 1324
+Peak (KB):   7340
+User (ms):   93
+Kernel (ms): 203
+
+Name:        GoogleCrashHandler64.exe
+Path:        
+Command:     
+PID:         48808
+User:        
+Session:     0
+Threads:     3
+Handles:     160
+Memory (KB): 1092
+Peak (KB):   7056
+User (ms):   0
+Kernel (ms): 46
+
+Name:        MsMpEng.exe
+Path:        
+Command:     
+PID:         47044
+User:        
+Session:     0
+Threads:     52
+Handles:     1571
+Memory (KB): 170272
+Peak (KB):   583928
+User (ms):   3294031
+Kernel (ms): 2808125
+
+Name:        NisSrv.exe
+Path:        
+Command:     
+PID:         29480
+User:        
+Session:     0
+Threads:     10
+Handles:     206
+Memory (KB): 10100
+Peak (KB):   16040
+User (ms):   94281
+Kernel (ms): 25328
+
+Name:        BstkSVC.exe
+Path:        C:\Program Files\BlueStacks\BstkSVC.exe
+Command:     "C:\Program Files\BlueStacks\BstkSVC.exe" -Embedding
+PID:         49652
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     11
+Handles:     2021
+Memory (KB): 4512
+Peak (KB):   17008
+User (ms):   4140
+Kernel (ms): 1578
+
+Name:        DSAService.exe
+Path:        
+Command:     
+PID:         44972
+User:        
+Session:     0
+Threads:     10
+Handles:     871
+Memory (KB): 18440
+Peak (KB):   66796
+User (ms):   847093
+Kernel (ms): 261390
+
+Name:        DSAUpdateService.exe
+Path:        
+Command:     
+PID:         49228
+User:        
+Session:     0
+Threads:     7
+Handles:     711
+Memory (KB): 156
+Peak (KB):   51460
+User (ms):   1187
+Kernel (ms): 875
+
+Name:        DSATray.exe
+Path:        C:\Program Files (x86)\Intel\Driver and Support Assistant\DSATray.exe
+Command:     "C:\Program Files (x86)\Intel\Driver and Support Assistant\DSATray.exe"
+PID:         14076
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     13
+Handles:     479
+Memory (KB): 262832
+Peak (KB):   264108
+User (ms):   17547203
+Kernel (ms): 1293875
+
+Name:        HxOutlook.exe
+Path:        C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.12430.20136.0_x64__8wekyb3d8bbwe\HxOutlook.exe
+Command:     "C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.12430.20136.0_x64__8wekyb3d8bbwe\HxOutlook.exe" -ServerName:microsoft.windowslive.mail.AppXfbjsbkxvprcgqg6q4c9jfr0pn3kv9x5s.mca
+PID:         48120
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     46
+Handles:     1007
+Memory (KB): 0
+Peak (KB):   104216
+User (ms):   156
+Kernel (ms): 718
+
+Name:        RuntimeBroker.exe
+Path:        C:\Windows\System32\RuntimeBroker.exe
+Command:     C:\Windows\System32\RuntimeBroker.exe -Embedding
+PID:         47124
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     2
+Handles:     251
+Memory (KB): 672
+Peak (KB):   23472
+User (ms):   390
+Kernel (ms): 359
+
+Name:        HxTsr.exe
+Path:        C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.12430.20136.0_x64__8wekyb3d8bbwe\HxTsr.exe
+Command:     "C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.12430.20136.0_x64__8wekyb3d8bbwe\HxTsr.exe" -ServerName:Hx.IPC.Server
+PID:         27960
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     14
+Handles:     604
+Memory (KB): 18760
+Peak (KB):   37112
+User (ms):   3203
+Kernel (ms): 3281
+
+Name:        HxAccounts.exe
+Path:        C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.12430.20136.0_x64__8wekyb3d8bbwe\HxAccounts.exe
+Command:     "C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.12430.20136.0_x64__8wekyb3d8bbwe\HxAccounts.exe" -ServerName:microsoft.windowslive.manageaccounts.AppXdbf3yp5apt3t7q877db3gnz5zqpf71zj.mca
+PID:         52188
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     21
+Handles:     623
+Memory (KB): 8472
+Peak (KB):   61784
+User (ms):   2171
+Kernel (ms): 1562
+
+Name:        SkypeApp.exe
+Path:        C:\Program Files\WindowsApps\Microsoft.SkypeApp_14.56.102.0_x64__kzf8qxf38zg5c\SkypeApp.exe
+Command:     "C:\Program Files\WindowsApps\Microsoft.SkypeApp_14.56.102.0_x64__kzf8qxf38zg5c\SkypeApp.exe" -ServerName:App.AppXffn3yxqvgawq9fpmnhy90fr3y01d1t5b.mca
+PID:         42296
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     43
+Handles:     1011
+Memory (KB): 15484
+Peak (KB):   1024352
+User (ms):   5359
+Kernel (ms): 1953
+
+Name:        RuntimeBroker.exe
+Path:        C:\Windows\System32\RuntimeBroker.exe
+Command:     C:\Windows\System32\RuntimeBroker.exe -Embedding
+PID:         51804
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     3
+Handles:     241
+Memory (KB): 5688
+Peak (KB):   20028
+User (ms):   1281
+Kernel (ms): 2062
+
+Name:        SkypeBackgroundHost.exe
+Path:        C:\Program Files\WindowsApps\Microsoft.SkypeApp_14.56.102.0_x64__kzf8qxf38zg5c\SkypeBackgroundHost.exe
+Command:     "C:\Program Files\WindowsApps\Microsoft.SkypeApp_14.56.102.0_x64__kzf8qxf38zg5c\SkypeBackgroundHost.exe" -ServerName:SkypeBackgroundHost
+PID:         45316
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     4
+Handles:     146
+Memory (KB): 3064
+Peak (KB):   8112
+User (ms):   15
+Kernel (ms): 62
+
+Name:        chrome.exe
+Path:        C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Command:     "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1216,2109052433983359937,10511497137060647309,131072 --lang=zh-TW --disable-oor-cors --enable-auto-reload --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --service-request-channel-token=5360391616008164946 --renderer-client-id=4824 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=18004 /prefetch:1
+PID:         52676
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     17
+Handles:     723
+Memory (KB): 60364
+Peak (KB):   2305408
+User (ms):   4717578
+Kernel (ms): 110859
+
+Name:        YourPhone.exe
+Path:        C:\Program Files\WindowsApps\Microsoft.YourPhone_1.19123.13.0_x64__8wekyb3d8bbwe\YourPhone.exe
+Command:     "C:\Program Files\WindowsApps\Microsoft.YourPhone_1.19123.13.0_x64__8wekyb3d8bbwe\YourPhone.exe" -ServerName:App.AppX9yct9q388jvt4h7y0gn06smzkxcsnt8m.mca
+PID:         37316
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     26
+Handles:     875
+Memory (KB): 25212
+Peak (KB):   44096
+User (ms):   1437
+Kernel (ms): 2750
+
+Name:        RuntimeBroker.exe
+Path:        C:\Windows\System32\RuntimeBroker.exe
+Command:     C:\Windows\System32\RuntimeBroker.exe -Embedding
+PID:         43048
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     3
+Handles:     336
+Memory (KB): 5200
+Peak (KB):   25044
+User (ms):   453
+Kernel (ms): 734
+
+Name:        chrome.exe
+Path:        C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Command:     "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1216,2109052433983359937,10511497137060647309,131072 --lang=zh-TW --disable-oor-cors --enable-auto-reload --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --service-request-channel-token=25258396284545551 --renderer-client-id=4946 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=3840 /prefetch:1
+PID:         55128
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     15
+Handles:     242
+Memory (KB): 7864
+Peak (KB):   60820
+User (ms):   1796
+Kernel (ms): 500
+
+Name:        chrome.exe
+Path:        C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Command:     "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1216,2109052433983359937,10511497137060647309,131072 --lang=zh-TW --disable-oor-cors --enable-auto-reload --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --service-request-channel-token=18267787910046835188 --renderer-client-id=6046 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=17404 /prefetch:1
+PID:         60820
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     15
+Handles:     341
+Memory (KB): 6604
+Peak (KB):   127384
+User (ms):   10890
+Kernel (ms): 2203
+
+Name:        wechatweb.exe
+Path:        C:\Program Files (x86)\Tencent\WeChat\WeChatWeb.exe
+Command:     WeChatWeb.exe --type=renderer --no-sandbox --client-id=wechat --disable-databases --primordial-pipe-token=B4764A183547ABAFD0BF4C4FA6CE296F --user-agent-extra="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2875.116 Safari/537.36 NetType/WIFI MicroMessenger/7.0.5 WindowsWechat" --lang=en-US --lang=zh-CN --locales-dir-path="C:\Users\Lawrence\AppData\Roaming\Tencent\WeChat\All Users\CefResources\locales" --log-file="C:\Users\Lawrence\AppData\Roaming\Tencent\WeChat\log\cef.log" --resources-dir-path="C:\Users\Lawrence\AppData\Roaming\Tencent\WeChat\All Users\CefResources" --enable-pinch --device-scale-factor=1 --num-raster-threads=4 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --mojo-channel-token=52ACDD0910F38A58AE7B85CBD69D4525 --mojo-application-channel-token=B4764A183547ABAFD0BF4C4FA6CE296F --channel="12792.2.1512739730\930750772" --fix-fasa --mojo-platform-channel-handle=8464 /prefetch:1
+PID:         66552
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     13
+Handles:     309
+Memory (KB): 2324
+Peak (KB):   88256
+User (ms):   3500
+Kernel (ms): 281
+
+Name:        chrome.exe
+Path:        C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Command:     "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1216,2109052433983359937,10511497137060647309,131072 --lang=zh-TW --disable-oor-cors --enable-auto-reload --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --service-request-channel-token=17389344165413274882 --renderer-client-id=6170 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=11184 /prefetch:1
+PID:         64500
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     18
+Handles:     792
+Memory (KB): 427536
+Peak (KB):   917260
+User (ms):   2126859
+Kernel (ms): 67875
+
+Name:        chrome.exe
+Path:        C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Command:     "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1216,2109052433983359937,10511497137060647309,131072 --lang=zh-TW --extension-process --disable-oor-cors --enable-auto-reload --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --service-request-channel-token=1455797622151999915 --renderer-client-id=6184 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=10836 /prefetch:1
+PID:         64392
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     19
+Handles:     4519
+Memory (KB): 370652
+Peak (KB):   561560
+User (ms):   769593
+Kernel (ms): 43734
+
+Name:        OneDrive.exe
+Path:        C:\Users\Lawrence\AppData\Local\Microsoft\OneDrive\OneDrive.exe
+Command:      /updateInstalled /background
+PID:         64888
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     27
+Handles:     817
+Memory (KB): 15444
+Peak (KB):   80712
+User (ms):   2515
+Kernel (ms): 5250
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         68016
+User:        
+Session:     0
+Threads:     10
+Handles:     400
+Memory (KB): 16628
+Peak (KB):   35384
+User (ms):   41281
+Kernel (ms): 125531
+
+Name:        chrome.exe
+Path:        C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Command:     "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1216,2109052433983359937,10511497137060647309,131072 --lang=zh-TW --disable-oor-cors --enable-auto-reload --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --service-request-channel-token=1424194662743778238 --renderer-client-id=6370 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=15384 /prefetch:1
+PID:         68184
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     16
+Handles:     313
+Memory (KB): 37208
+Peak (KB):   393784
+User (ms):   81937
+Kernel (ms): 4828
+
+Name:        chrome.exe
+Path:        C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Command:     "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1216,2109052433983359937,10511497137060647309,131072 --lang=zh-TW --disable-oor-cors --enable-auto-reload --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --service-request-channel-token=10683311015028805336 --renderer-client-id=6377 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=5740 /prefetch:1
+PID:         14964
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     16
+Handles:     375
+Memory (KB): 58932
+Peak (KB):   127172
+User (ms):   21703
+Kernel (ms): 1250
+
+Name:        Microsoft.Photos.exe
+Path:        C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2020.19081.28230.0_x64__8wekyb3d8bbwe\Microsoft.Photos.exe
+Command:     "C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2020.19081.28230.0_x64__8wekyb3d8bbwe\Microsoft.Photos.exe" -ServerName:App.AppXzst44mncqdg84v7sv6p7yznqwssy6f7f.mca
+PID:         67976
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     24
+Handles:     920
+Memory (KB): 51908
+Peak (KB):   96472
+User (ms):   1406
+Kernel (ms): 1171
+
+Name:        RuntimeBroker.exe
+Path:        C:\Windows\System32\RuntimeBroker.exe
+Command:     C:\Windows\System32\RuntimeBroker.exe -Embedding
+PID:         66360
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     4
+Handles:     298
+Memory (KB): 10100
+Peak (KB):   25924
+User (ms):   203
+Kernel (ms): 1281
+
+Name:        chrome.exe
+Path:        C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Command:     "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1216,2109052433983359937,10511497137060647309,131072 --lang=zh-TW --disable-oor-cors --enable-auto-reload --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --service-request-channel-token=13218112906079866144 --renderer-client-id=6389 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=16996 /prefetch:1
+PID:         40980
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     16
+Handles:     465
+Memory (KB): 179276
+Peak (KB):   485352
+User (ms):   509984
+Kernel (ms): 42203
+
+Name:        chrome.exe
+Path:        C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Command:     "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1216,2109052433983359937,10511497137060647309,131072 --lang=zh-TW --extension-process --disable-oor-cors --enable-auto-reload --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --service-request-channel-token=7557885766803532194 --renderer-client-id=6409 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=18460 /prefetch:1
+PID:         53404
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     15
+Handles:     244
+Memory (KB): 215016
+Peak (KB):   349276
+User (ms):   147531
+Kernel (ms): 20859
+
+Name:        Bluestacks.exe
+Path:        C:\ProgramData\BlueStacks\Client\BlueStacks.exe
+Command:     "C:\ProgramData\BlueStacks\Client\BlueStacks.exe" -vmname Android
+PID:         69760
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     54
+Handles:     1704
+Memory (KB): 75448
+Peak (KB):   253012
+User (ms):   873718
+Kernel (ms): 443203
+
+Name:        HD-Player.exe
+Path:        C:\Program Files\BlueStacks\HD-Player.exe
+Command:     "C:\Program Files\BlueStacks\HD-Player.exe" Android -h
+PID:         45492
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     96
+Handles:     2003
+Memory (KB): 13240
+Peak (KB):   377552
+User (ms):   17586515
+Kernel (ms): 157770453
+
+Name:        Bluestacks.exe
+Path:        C:\ProgramData\BlueStacks\Client\BlueStacks.exe
+Command:     "C:\ProgramData\BlueStacks\Client\BlueStacks.exe" --type=renderer --disable-browser-side-navigation --disable-gpu-compositing --disable-smooth-scrolling --no-sandbox --service-pipe-token=38687AE9AB94DAECACD288B16D8819B5 --lang=en-US --lang=zh-TW --log-file="C:\ProgramData\BlueStacks\Client\debug.log" --log-severity=verbose --user-agent="Mozilla/5.0(Windows NT 6.2; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36Bluestacks/4.170.0.1042" --enable-system-flash --ppapi-flash-path="C:\ProgramData\BlueStacks\CefData\pepflashplayer.dll" --enable-pinch --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --enable-gpu-async-worker-context --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553;5,0,3553;5,1,3553;5,2,3553;5,3,3553;5,4,3553;5,5,3553;5,6,3553;5,7,3553;5,8,3553;5,9,3553;5,10,3553;5,11,3553;5,12,3553;5,13,3553;5,14,3553;5,15,3553;5,16,3553;5,17,3553;6,0,3553;6,1,3553;6,2,3553;6,3,3553;6,4,3553;6,5,3553;6,6,3553;6,7,3553;6,8,3553;6,9,3553;6,10,3553;6,11,3553;6,12,3553;6,13,3553;6,14,3553;6,15,3553;6,16,3553;6,17,3553 --disable-accelerated-video-decode --disable-gpu-compositing --service-request-channel-token=38687AE9AB94DAECACD288B16D8819B5 --renderer-client-id=2 --mojo-platform-channel-handle=3932 /prefetch:1
+PID:         64784
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     22
+Handles:     497
+Memory (KB): 18800
+Peak (KB):   70292
+User (ms):   421
+Kernel (ms): 296
+
+Name:        Bluestacks.exe
+Path:        C:\ProgramData\BlueStacks\Client\BlueStacks.exe
+Command:     "C:\ProgramData\BlueStacks\Client\BlueStacks.exe" --type=renderer --disable-browser-side-navigation --disable-gpu-compositing --disable-smooth-scrolling --no-sandbox --service-pipe-token=A56C9DBCA2FB52E6F070BCEA7E4D1862 --lang=en-US --lang=zh-TW --log-file="C:\ProgramData\BlueStacks\Client\debug.log" --log-severity=verbose --user-agent="Mozilla/5.0(Windows NT 6.2; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36Bluestacks/4.170.0.1042" --enable-system-flash --ppapi-flash-path="C:\ProgramData\BlueStacks\CefData\pepflashplayer.dll" --enable-pinch --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --enable-gpu-async-worker-context --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553;5,0,3553;5,1,3553;5,2,3553;5,3,3553;5,4,3553;5,5,3553;5,6,3553;5,7,3553;5,8,3553;5,9,3553;5,10,3553;5,11,3553;5,12,3553;5,13,3553;5,14,3553;5,15,3553;5,16,3553;5,17,3553;6,0,3553;6,1,3553;6,2,3553;6,3,3553;6,4,3553;6,5,3553;6,6,3553;6,7,3553;6,8,3553;6,9,3553;6,10,3553;6,11,3553;6,12,3553;6,13,3553;6,14,3553;6,15,3553;6,16,3553;6,17,3553 --disable-accelerated-video-decode --disable-gpu-compositing --service-request-channel-token=A56C9DBCA2FB52E6F070BCEA7E4D1862 --renderer-client-id=3 --mojo-platform-channel-handle=4012 /prefetch:1
+PID:         59812
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     21
+Handles:     555
+Memory (KB): 15928
+Peak (KB):   86300
+User (ms):   906
+Kernel (ms): 406
+
+Name:        HD-Player.exe
+Path:        C:\Program Files\BlueStacks\HD-Player.exe
+Command:     "C:\Program Files\BlueStacks\HD-Player.exe" Android_1 -h
+PID:         68988
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     100
+Handles:     2202
+Memory (KB): 50012
+Peak (KB):   270104
+User (ms):   10694671
+Kernel (ms): 107914531
+
+Name:        Bluestacks.exe
+Path:        C:\ProgramData\BlueStacks\Client\BlueStacks.exe
+Command:     "C:\ProgramData\BlueStacks\Client\BlueStacks.exe" --type=renderer --disable-browser-side-navigation --disable-gpu-compositing --disable-smooth-scrolling --no-sandbox --service-pipe-token=42B47EFE32C9433A0E9C03C73CF93921 --lang=en-US --lang=zh-TW --log-file="C:\ProgramData\BlueStacks\Client\debug.log" --log-severity=verbose --user-agent="Mozilla/5.0(Windows NT 6.2; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36Bluestacks/4.170.0.1042" --enable-system-flash --ppapi-flash-path="C:\ProgramData\BlueStacks\CefData\pepflashplayer.dll" --enable-pinch --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --enable-gpu-async-worker-context --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553;5,0,3553;5,1,3553;5,2,3553;5,3,3553;5,4,3553;5,5,3553;5,6,3553;5,7,3553;5,8,3553;5,9,3553;5,10,3553;5,11,3553;5,12,3553;5,13,3553;5,14,3553;5,15,3553;5,16,3553;5,17,3553;6,0,3553;6,1,3553;6,2,3553;6,3,3553;6,4,3553;6,5,3553;6,6,3553;6,7,3553;6,8,3553;6,9,3553;6,10,3553;6,11,3553;6,12,3553;6,13,3553;6,14,3553;6,15,3553;6,16,3553;6,17,3553 --disable-accelerated-video-decode --disable-gpu-compositing --service-request-channel-token=42B47EFE32C9433A0E9C03C73CF93921 --renderer-client-id=4 --mojo-platform-channel-handle=5488 /prefetch:1
+PID:         69668
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     21
+Handles:     550
+Memory (KB): 7364
+Peak (KB):   86204
+User (ms):   875
+Kernel (ms): 296
+
+Name:        HD-Player.exe
+Path:        C:\Program Files\BlueStacks\HD-Player.exe
+Command:     "C:\Program Files\BlueStacks\HD-Player.exe" Android_2 -h
+PID:         51800
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     93
+Handles:     2129
+Memory (KB): 13908
+Peak (KB):   263156
+User (ms):   2159046
+Kernel (ms): 23143468
+
+Name:        Bluestacks.exe
+Path:        C:\ProgramData\BlueStacks\Client\BlueStacks.exe
+Command:     "C:\ProgramData\BlueStacks\Client\BlueStacks.exe" --type=renderer --disable-browser-side-navigation --disable-gpu-compositing --disable-smooth-scrolling --no-sandbox --service-pipe-token=B3BE5B5A45DCC3C6B6C0A9AF0E6E9DB3 --lang=en-US --lang=zh-TW --log-file="C:\ProgramData\BlueStacks\Client\debug.log" --log-severity=verbose --user-agent="Mozilla/5.0(Windows NT 6.2; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36Bluestacks/4.170.0.1042" --enable-system-flash --ppapi-flash-path="C:\ProgramData\BlueStacks\CefData\pepflashplayer.dll" --enable-pinch --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --enable-gpu-async-worker-context --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553;5,0,3553;5,1,3553;5,2,3553;5,3,3553;5,4,3553;5,5,3553;5,6,3553;5,7,3553;5,8,3553;5,9,3553;5,10,3553;5,11,3553;5,12,3553;5,13,3553;5,14,3553;5,15,3553;5,16,3553;5,17,3553;6,0,3553;6,1,3553;6,2,3553;6,3,3553;6,4,3553;6,5,3553;6,6,3553;6,7,3553;6,8,3553;6,9,3553;6,10,3553;6,11,3553;6,12,3553;6,13,3553;6,14,3553;6,15,3553;6,16,3553;6,17,3553 --disable-accelerated-video-decode --disable-gpu-compositing --service-request-channel-token=B3BE5B5A45DCC3C6B6C0A9AF0E6E9DB3 --renderer-client-id=5 --mojo-platform-channel-handle=5312 /prefetch:1
+PID:         54492
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     21
+Handles:     553
+Memory (KB): 7428
+Peak (KB):   86548
+User (ms):   1109
+Kernel (ms): 343
+
+Name:        HD-Player.exe
+Path:        C:\Program Files\BlueStacks\HD-Player.exe
+Command:     "C:\Program Files\BlueStacks\HD-Player.exe" Android_3 -h
+PID:         67500
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     102
+Handles:     2211
+Memory (KB): 15856
+Peak (KB):   246424
+User (ms):   8605828
+Kernel (ms): 92848250
+
+Name:        Bluestacks.exe
+Path:        C:\ProgramData\BlueStacks\Client\BlueStacks.exe
+Command:     "C:\ProgramData\BlueStacks\Client\BlueStacks.exe" --type=renderer --disable-browser-side-navigation --disable-gpu-compositing --disable-smooth-scrolling --no-sandbox --service-pipe-token=DD936610F6A68388A972D6783BA53977 --lang=en-US --lang=zh-TW --log-file="C:\ProgramData\BlueStacks\Client\debug.log" --log-severity=verbose --user-agent="Mozilla/5.0(Windows NT 6.2; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36Bluestacks/4.170.0.1042" --enable-system-flash --ppapi-flash-path="C:\ProgramData\BlueStacks\CefData\pepflashplayer.dll" --enable-pinch --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --enable-gpu-async-worker-context --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553;5,0,3553;5,1,3553;5,2,3553;5,3,3553;5,4,3553;5,5,3553;5,6,3553;5,7,3553;5,8,3553;5,9,3553;5,10,3553;5,11,3553;5,12,3553;5,13,3553;5,14,3553;5,15,3553;5,16,3553;5,17,3553;6,0,3553;6,1,3553;6,2,3553;6,3,3553;6,4,3553;6,5,3553;6,6,3553;6,7,3553;6,8,3553;6,9,3553;6,10,3553;6,11,3553;6,12,3553;6,13,3553;6,14,3553;6,15,3553;6,16,3553;6,17,3553 --disable-accelerated-video-decode --disable-gpu-compositing --service-request-channel-token=DD936610F6A68388A972D6783BA53977 --renderer-client-id=6 --mojo-platform-channel-handle=1516 /prefetch:1
+PID:         64672
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     21
+Handles:     555
+Memory (KB): 7476
+Peak (KB):   86604
+User (ms):   906
+Kernel (ms): 437
+
+Name:        HD-Player.exe
+Path:        C:\Program Files\BlueStacks\HD-Player.exe
+Command:     "C:\Program Files\BlueStacks\HD-Player.exe" Android_4 -h
+PID:         64548
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     104
+Handles:     2184
+Memory (KB): 15912
+Peak (KB):   192824
+User (ms):   8778390
+Kernel (ms): 95364031
+
+Name:        Bluestacks.exe
+Path:        C:\ProgramData\BlueStacks\Client\BlueStacks.exe
+Command:     "C:\ProgramData\BlueStacks\Client\BlueStacks.exe" --type=renderer --disable-browser-side-navigation --disable-gpu-compositing --disable-smooth-scrolling --no-sandbox --service-pipe-token=8461EC00189D66C515091FF1DADE3100 --lang=en-US --lang=zh-TW --log-file="C:\ProgramData\BlueStacks\Client\debug.log" --log-severity=verbose --user-agent="Mozilla/5.0(Windows NT 6.2; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36Bluestacks/4.170.0.1042" --enable-system-flash --ppapi-flash-path="C:\ProgramData\BlueStacks\CefData\pepflashplayer.dll" --enable-pinch --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --enable-gpu-async-worker-context --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553;5,0,3553;5,1,3553;5,2,3553;5,3,3553;5,4,3553;5,5,3553;5,6,3553;5,7,3553;5,8,3553;5,9,3553;5,10,3553;5,11,3553;5,12,3553;5,13,3553;5,14,3553;5,15,3553;5,16,3553;5,17,3553;6,0,3553;6,1,3553;6,2,3553;6,3,3553;6,4,3553;6,5,3553;6,6,3553;6,7,3553;6,8,3553;6,9,3553;6,10,3553;6,11,3553;6,12,3553;6,13,3553;6,14,3553;6,15,3553;6,16,3553;6,17,3553 --disable-accelerated-video-decode --disable-gpu-compositing --service-request-channel-token=8461EC00189D66C515091FF1DADE3100 --renderer-client-id=7 --mojo-platform-channel-handle=5144 /prefetch:1
+PID:         63872
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     21
+Handles:     550
+Memory (KB): 7372
+Peak (KB):   86012
+User (ms):   1171
+Kernel (ms): 484
+
+Name:        sppsvc.exe
+Path:        
+Command:     
+PID:         19540
+User:        
+Session:     0
+Threads:     5
+Handles:     259
+Memory (KB): 22316
+Peak (KB):   36512
+User (ms):   1349765
+Kernel (ms): 709421
+
+Name:        SppExtComObj.Exe
+Path:        
+Command:     
+PID:         51868
+User:        
+Session:     0
+Threads:     6
+Handles:     199
+Memory (KB): 5572
+Peak (KB):   10352
+User (ms):   2437
+Kernel (ms): 6515
+
+Name:        chrome.exe
+Path:        C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Command:     "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1216,2109052433983359937,10511497137060647309,131072 --lang=zh-TW --disable-oor-cors --enable-auto-reload --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --service-request-channel-token=10063443831352790488 --renderer-client-id=6464 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=18676 /prefetch:1
+PID:         16664
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     19
+Handles:     418
+Memory (KB): 885768
+Peak (KB):   886408
+User (ms):   359937
+Kernel (ms): 10765
+
+Name:        chrome.exe
+Path:        C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Command:     "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1216,2109052433983359937,10511497137060647309,131072 --lang=zh-TW --disable-oor-cors --enable-auto-reload --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --service-request-channel-token=12079479370570576369 --renderer-client-id=6469 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=19960 /prefetch:1
+PID:         67848
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     15
+Handles:     357
+Memory (KB): 11864
+Peak (KB):   201584
+User (ms):   60531
+Kernel (ms): 5859
+
+Name:        RuntimeBroker.exe
+Path:        C:\Windows\System32\RuntimeBroker.exe
+Command:     C:\Windows\System32\RuntimeBroker.exe -Embedding
+PID:         66520
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     7
+Handles:     289
+Memory (KB): 16348
+Peak (KB):   21684
+User (ms):   968
+Kernel (ms): 1953
+
+Name:        WWAHost.exe
+Path:        C:\WINDOWS\system32\wwahost.exe
+Command:     "C:\WINDOWS\system32\wwahost.exe" -ServerName:Microsoft.MicrosoftOfficeHub.wwa
+PID:         59520
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     43
+Handles:     865
+Memory (KB): 0
+Peak (KB):   90896
+User (ms):   234
+Kernel (ms): 343
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         71116
+User:        
+Session:     0
+Threads:     4
+Handles:     115
+Memory (KB): 224
+Peak (KB):   5636
+User (ms):   0
+Kernel (ms): 31
+
+Name:        esrv_svc.exe
+Path:        
+Command:     
+PID:         62500
+User:        
+Session:     0
+Threads:     72
+Handles:     1357
+Memory (KB): 43372
+Peak (KB):   130128
+User (ms):   22937
+Kernel (ms): 123484
+
+Name:        chrome.exe
+Path:        C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Command:     "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1216,2109052433983359937,10511497137060647309,131072 --lang=zh-TW --disable-oor-cors --enable-auto-reload --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --service-request-channel-token=6651695706382266708 --renderer-client-id=6492 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=4204 /prefetch:1
+PID:         70300
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     15
+Handles:     227
+Memory (KB): 4840
+Peak (KB):   21180
+User (ms):   15
+Kernel (ms): 62
+
+Name:        MusNotifyIcon.exe
+Path:        C:\WINDOWS\system32\MusNotifyIcon.exe
+Command:     %systemroot%\system32\MusNotifyIcon.exe NotifyTrayIcon 16
+PID:         47192
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     3
+Handles:     225
+Memory (KB): 12972
+Peak (KB):   13668
+User (ms):   31
+Kernel (ms): 109
+
+Name:        svchost.exe
+Path:        
+Command:     
+PID:         57168
+User:        
+Session:     0
+Threads:     4
+Handles:     128
+Memory (KB): 7636
+Peak (KB):   7672
+User (ms):   0
+Kernel (ms): 15
+
+Name:        backgroundTaskHost.exe
+Path:        C:\WINDOWS\system32\backgroundTaskHost.exe
+Command:     "C:\WINDOWS\system32\backgroundTaskHost.exe" -ServerName:App.AppXemn3t55segp7q92mwd35v2a5rk5mvwyz.mca
+PID:         49060
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     13
+Handles:     301
+Memory (KB): 31812
+Peak (KB):   31876
+User (ms):   62
+Kernel (ms): 93
+
+Name:        backgroundTaskHost.exe
+Path:        C:\WINDOWS\system32\backgroundTaskHost.exe
+Command:     "C:\WINDOWS\system32\backgroundTaskHost.exe" -ServerName:Microsoft.MicrosoftOfficeHub.AppX54h2e8jwdm50fj5ha8987vz1etpx7czd.mca
+PID:         42568
+User:        
+Session:     1
+Threads:     11
+Handles:     290
+Memory (KB): 26952
+Peak (KB):   27136
+User (ms):   15
+Kernel (ms): 109
+
+Name:        RuntimeBroker.exe
+Path:        C:\Windows\System32\RuntimeBroker.exe
+Command:     C:\Windows\System32\RuntimeBroker.exe -Embedding
+PID:         67876
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     9
+Handles:     309
+Memory (KB): 22092
+Peak (KB):   22284
+User (ms):   125
+Kernel (ms): 140
+
+Name:        Bluestacks.exe
+Path:        C:\ProgramData\BlueStacks\Client\BlueStacks.exe
+Command:     "C:\ProgramData\BlueStacks\Client\BlueStacks.exe" --type=renderer --disable-browser-side-navigation --disable-gpu-compositing --disable-smooth-scrolling --no-sandbox --service-pipe-token=0A5279C9CA0A2F39FE42E888BD2BD927 --lang=en-US --lang=zh-TW --log-file="C:\ProgramData\BlueStacks\Client\debug.log" --log-severity=verbose --user-agent="Mozilla/5.0(Windows NT 6.2; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36Bluestacks/4.170.0.1042" --enable-system-flash --ppapi-flash-path="C:\ProgramData\BlueStacks\CefData\pepflashplayer.dll" --enable-pinch --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --enable-gpu-async-worker-context --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553;5,0,3553;5,1,3553;5,2,3553;5,3,3553;5,4,3553;5,5,3553;5,6,3553;5,7,3553;5,8,3553;5,9,3553;5,10,3553;5,11,3553;5,12,3553;5,13,3553;5,14,3553;5,15,3553;5,16,3553;5,17,3553;6,0,3553;6,1,3553;6,2,3553;6,3,3553;6,4,3553;6,5,3553;6,6,3553;6,7,3553;6,8,3553;6,9,3553;6,10,3553;6,11,3553;6,12,3553;6,13,3553;6,14,3553;6,15,3553;6,16,3553;6,17,3553 --disable-accelerated-video-decode --disable-gpu-compositing --service-request-channel-token=0A5279C9CA0A2F39FE42E888BD2BD927 --renderer-client-id=10 --mojo-platform-channel-handle=5096 /prefetch:1
+PID:         62248
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     40
+Handles:     720
+Memory (KB): 163140
+Peak (KB):   228212
+User (ms):   2031
+Kernel (ms): 296
+
+Name:        HD-LogCollector.exe
+Path:        C:\Program Files\BlueStacks\HD-LogCollector.exe
+Command:     "C:\Program Files\BlueStacks\HD-LogCollector.exe" 
+PID:         47284
+User:        DESKTOP-CQF5RSH\Lawrence
+Session:     1
+Threads:     23
+Handles:     866
+Memory (KB): 135168
+Peak (KB):   135172
+User (ms):   921
+Kernel (ms): 1000
+
+Name:        HD-Adb.exe
+Path:        C:\Program Files\BlueStacks\HD-Adb.exe
+Command:     "C:\Program Files\BlueStacks\HD-Adb.exe" "connect" "127.0.0.1:5556"
+PID:         56220
+User:        
+Session:     1
+Threads:     4
+Handles:     166
+Memory (KB): 7000
+Peak (KB):   7004
+User (ms):   0
+Kernel (ms): 15
+
+Name:        conhost.exe
+Path:        C:\WINDOWS\system32\conhost.exe
+Command:     \??\C:\WINDOWS\system32\conhost.exe 0x4
+PID:         67240
+User:        
+Session:     1
+Threads:     5
+Handles:     121
+Memory (KB): 11064
+Peak (KB):   11068
+User (ms):   15
+Kernel (ms): 15

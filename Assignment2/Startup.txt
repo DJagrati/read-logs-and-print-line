@@ -1,0 +1,55 @@
+Application Name: OneDrive
+Application Location: HKU\S-1-5-21-4036376358-2712457238-283100169-1001\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+Application Command: "C:\Users\Lawrence\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /background
+User: DESKTOP-CQF5RSH\Lawrence
+
+Application Name: Advanced SystemCare
+Application Location: HKU\S-1-5-21-4036376358-2712457238-283100169-1001\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+Application Command: "C:\Program Files (x86)\IObit\Advanced SystemCare\ASCTray.exe" /Auto
+User: DESKTOP-CQF5RSH\Lawrence
+
+Application Name: Wechat
+Application Location: HKU\S-1-5-21-4036376358-2712457238-283100169-1001\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+Application Command: C:\Program Files (x86)\Tencent\WeChat\WeChat.exe -autorun
+User: DESKTOP-CQF5RSH\Lawrence
+
+Application Name: Discord
+Application Location: HKU\S-1-5-21-4036376358-2712457238-283100169-1001\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+Application Command: C:\Users\Lawrence\AppData\Local\Discord\app-0.0.305\Discord.exe
+User: DESKTOP-CQF5RSH\Lawrence
+
+Application Name: LDNews
+Application Location: HKU\S-1-5-21-4036376358-2712457238-283100169-1001\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+Application Command: C:\ChangZhi\LDPlayer\news\ldnews.exe
+User: DESKTOP-CQF5RSH\Lawrence
+
+Application Name: Steam
+Application Location: HKU\S-1-5-21-4036376358-2712457238-283100169-1001\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+Application Command: "C:\Program Files (x86)\Steam\steam.exe" -silent
+User: DESKTOP-CQF5RSH\Lawrence
+
+Application Name: AnyDesk
+Application Location: Common Startup
+Application Command: C:\PROGRA~2\AnyDesk\AnyDesk.exe  --control
+User: Public
+
+Application Name: 中華郵政WebATM元件
+Application Location: Common Startup
+Application Command: C:\WINDOWS\Installer\{1F3B31B1-8ED6-47EB-B147-B4CADBE1C8B8}\_3BC0E7104A203CD24AE5C1.exe 
+User: Public
+
+Application Name: SecurityHealth
+Application Location: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+Application Command: %windir%\system32\SecurityHealthSystray.exe
+User: Public
+
+Application Name: ESUNATM_Service
+Application Location: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+Application Command: C:\WINDOWS\ESUNATM_Service.exe
+User: Public
+
+Application Name: RtkAudUService
+Application Location: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+Application Command: "C:\WINDOWS\System32\RtkAudUService64.exe" -background
+User: Public
+

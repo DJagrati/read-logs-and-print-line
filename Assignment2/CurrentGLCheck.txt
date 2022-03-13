@@ -1,0 +1,8 @@
+GLCheck Utility
+Copyright 2012 BlueStack Systems, Inc.
+All Rights Reserved
+
+Usage: C:\Program Files\BlueStacks\HD-GLCheck.exe <renderer> [glmode] 
+  renderer  : 1  -> opengl, 2 -> DX9, 3 -> DX11, 4 -> DX11 auto fallback to DX9
+  renderer  : 99 -> Exit with non-zero exit code (-1)
+  glmode    : 1  -> PGA (default), 2 -> AGA

@@ -1,0 +1,1 @@
+{"result":"ok","value":"connection ok"}{"result":"ok","value":"connection ok","vmid":"1"}{"result":"ok","value":"connection ok","vmid":"2"}

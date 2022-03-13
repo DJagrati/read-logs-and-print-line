@@ -1,0 +1,55 @@
+
+主機名稱:             DESKTOP-CQF5RSH
+作業系統名稱:         Microsoft Windows 10 專業版
+作業系統版本:         10.0.18362 N/A 組建 18362
+作業系統製造商:       Microsoft Corporation
+作業系統設定:         獨立工作站
+作業系統組建類型:     Multiprocessor Free
+註冊的擁有者:         Windows 使用者
+註冊公司:             
+產品識別碼:           00331-10000-00001-AA840
+原始安裝日期:         2019/11/21, 上午 12:42:15
+系統開機時間:         2020/1/9, 下午 06:26:00
+系統製造商:           Gigabyte Technology Co., Ltd.
+系統型號:             Z370P D3
+系統類型:             x64-based PC
+處理器:               已安裝 1 處理器。
+                      [01]: Intel64 Family 6 Model 158 Stepping 10 GenuineIntel ~3696 Mhz
+BIOS 版本:            American Megatrends Inc. F14, 2019/8/13
+Windows 目錄:         C:\WINDOWS
+系統目錄:             C:\WINDOWS\system32
+開機裝置:             \Device\HarddiskVolume3
+系統地區設定:         zh-tw;中文 (台灣)
+輸入法地區設定:       zh-tw;中文 (台灣)
+時區:                 (UTC+08:00) 台北
+實體記憶體總計:       32,712 MB
+可用實體記憶體:       11,651 MB
+虛擬記憶體: 大小上限: 42,231 MB
+虛擬記憶體: 可用:     7,323 MB
+虛擬記憶體: 使用中:   34,908 MB
+分頁檔位置:           C:\pagefile.sys
+網域:                 WORKGROUP
+登入伺服器:           \\DESKTOP-CQF5RSH
+Hotfix:               已安裝 7 Hotfix。
+                      [01]: KB4534132
+                      [02]: KB4497727
+                      [03]: KB4516115
+                      [04]: KB4524569
+                      [05]: KB4528759
+                      [06]: KB4537759
+                      [07]: KB4528760
+網路卡:               已安裝 2 NIC。
+                      [01]: Realtek PCIe GbE Family Controller
+                            連線名稱:           乙太網路
+                            DHCP 已啟用:          是
+                            DHCP 伺服器:        192.168.2.1
+                            IP 位址
+                            [01]: 192.168.2.103
+                            [02]: fe80::e4fe:764d:b564:9be7
+                      [02]: Bluetooth Device (Personal Area Network)
+                            連線名稱:           藍牙網路連線
+                            狀態:               媒體已中斷連線
+Hyper-V 需求:         VM 監視器模式擴充: 是
+                      韌體中已啟用虛擬化: 是
+                      第二層位址轉譯: 是
+                      具有資料執行防止: 是
